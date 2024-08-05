@@ -1,6 +1,6 @@
 <p align="center">
   <img src="images/header.png?raw=true" alt="Logotipo de 
-  Good practices on repository creation"/>
+Datacopio"/>
 </p>
 
 ---
