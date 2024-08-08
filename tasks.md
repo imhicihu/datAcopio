@@ -3,4 +3,6 @@
 * [x] Actualizar menú `Institucional`
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Líneas de investigación` a `Areas de investigación`
-* [ ] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Proyectos` a `Proyectos vigentes`
+* [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Proyectos` a `Proyectos vigentes`
+* [ ] Borrar todas las `Entradas`
+* [ ] 
