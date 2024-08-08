@@ -9,3 +9,4 @@
 * [x] Se agregó texto al menú `Contact`
 * [ ] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list
 * [ ] Verificar si `Biblioteca` va en el menú superior
+* [ ] Google Analytics procedure
