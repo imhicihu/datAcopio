@@ -7,4 +7,4 @@
 * [ ] Borrar todas las `Entradas`
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
-* [ ] 
+* [ ] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list
