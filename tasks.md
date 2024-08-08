@@ -6,3 +6,5 @@
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Proyectos` a `Proyectos vigentes`
 * [ ] Borrar todas las `Entradas`
 * [x] Se agregó texto al menú `Contacto`
+* [x] Se agregó texto al menú `Contact`
+* [ ] 
