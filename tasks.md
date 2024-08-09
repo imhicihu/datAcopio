@@ -1,5 +1,6 @@
 ### Tasks
 * [ ] Posibilidad de ocultar páginas
+		![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 * [ ] borrar/eliminar/actualizar/añadir ciertas imágenes desde la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 * [x] Actualizar menú `Institucional`
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
