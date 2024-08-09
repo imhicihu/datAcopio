@@ -1,4 +1,5 @@
 ### Tasks
+* [ ] Posibilidad de ocultar páginas
 * [ ] borrar/eliminar/actualizar/añadir ciertas imágenes desde la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 * [x] Actualizar menú `Institucional`
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
@@ -14,3 +15,4 @@
 * [ ] Cookies treatment
 * [ ] Micrositios: Dila & La Argentina en mapas
 * [x] Se agregó `Publicaciones`
+* [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
