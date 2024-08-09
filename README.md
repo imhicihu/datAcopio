@@ -12,7 +12,7 @@ Datacopio"/>
 
 ## RATIONALE
 
-* This repository it just for the sake of migrate our data between different servers and platform
+* This repository it just for the sake of migrate our data between different servers and platforms
 * Collect data between persons, format, standardize and go to production following deadlines and criteria previously engaged
      
 ### Who do I talk to? ###
