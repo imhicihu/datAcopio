@@ -10,7 +10,7 @@ Datacopio"/>
 
 # datAcopio
 
-## RATIONALE
+## RATIONALE / [RAZONES](LEEME.md)
 
 * This repository it just for the sake of migrate our data between different servers and platforms
 * Collect data between persons, format, standardize and go to production following deadlines and criteria previously engaged
