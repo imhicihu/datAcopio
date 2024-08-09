@@ -10,6 +10,6 @@
 * [ ] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list
 * [ ] Verificar si `Biblioteca` va en el menú superior
 * [ ] Google Analytics procedure
-* [x] Se agregaron y situaron  `Digital Collections` y `Library` en el menú `Inglés`
+* [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
 * [ ] Cookies treatment
 * [ ] 
