@@ -11,3 +11,5 @@
 * [ ] Verificar si `Biblioteca` va en el menú superior
 * [ ] Google Analytics procedure
 * [x] Se agregaron y situaron  `Digital Collections` y `Library` en el menú `Inglés`
+* [ ] Cookies treatment
+* [ ] 
