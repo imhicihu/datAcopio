@@ -12,4 +12,5 @@
 * [ ] Google Analytics procedure
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
 * [ ] Cookies treatment
-* [ ] 
+* [ ] Micrositios: Dila & La Argentina en mapas
+* [x] Se agregó `Publicaciones`
