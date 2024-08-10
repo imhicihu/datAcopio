@@ -20,3 +20,6 @@
 * [ ] add link to `GitHub`
 * [ ] add link to `Sketchfab`
 * [ ] add link to `Vimeo`
+* [ ] add link to `Onshape`
+* [ ] add link to `LinkedIn`
+* [ ] add link to `Youtube`
