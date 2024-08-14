@@ -11,7 +11,7 @@
 * [x] Se agregó texto al menú `Contact`
 * [ ] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list
 * [ ] Verificar si `Biblioteca` va en el menú superior
-* [ ] Google Analytics procedure
+* [ ] Google Analytics procedure (option enabled?)
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
 * [ ] Cookies treatment
 * [ ] Micrositios: Dila & La Argentina en mapas
