@@ -23,3 +23,4 @@
 * [ ] add link to `Onshape`
 * [ ] add link to `LinkedIn`
 * [ ] add link to `Youtube`
+* [ ] add `Updated on DD/MM/YEAR` on Noticias / News
