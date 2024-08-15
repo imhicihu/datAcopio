@@ -12,7 +12,7 @@ Datacopio"/>
 
 ## RAZONES
 
-* Este repositorio es desarrollar rutinas, soluciones y generar herramientas internas con el fin de migrar nuestros datos entre diferentes servidores y plataformas
+* Este repositorio es para desarrollar rutinas, soluciones y generar herramientas internas con el fin de migrar nuestros datos entre diferentes servidores y plataformas
 * Recopilar datos entre personas, formatear, estandarizar y pasar a `producción` siguiendo plazos y criterios previamente comprometidos
      
 ### ¿Con quién hablo?
@@ -28,6 +28,6 @@ Datacopio"/>
 
 * Todas las marcas son propiedad de sus respectivos propietarios
 
-### License ###
+### License
 
 * El contenido de este proyecto está sujeto a la licencia ![MIT](images/MIT-license-green.png)
