@@ -13,7 +13,7 @@
 * [ ] Verificar si `Biblioteca` va en el menú superior
 * [ ] Google Analytics procedure (option enabled?)
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
-* [ ] Cookies treatment
+* [ ] [Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Micrositios: Dila & La Argentina en mapas
 * [x] Se agregó `Publicaciones`
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
@@ -24,3 +24,4 @@
 * [ ] add link to `LinkedIn`
 * [ ] add link to `Youtube`
 * [ ] add `Updated on DD/MM/YEAR` on Noticias / News
+* [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
