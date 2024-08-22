@@ -23,5 +23,6 @@
 * [ ] add link to `Onshape`
 * [ ] add link to `LinkedIn`
 * [ ] add link to `Youtube`
+* [ ] link to `RSS` feed
 * [ ] add `Updated on DD/MM/YEAR` on Noticias / News
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
