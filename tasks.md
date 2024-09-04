@@ -27,3 +27,4 @@
 * [ ] link to `RSS` feed
 * [ ] add `Updated on DD/MM/YEAR` on Noticias / News
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
+* [ ] Al final de cada página poner `Actualizado: DD/MM/AÑO`
