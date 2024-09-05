@@ -1,9 +1,10 @@
 ### Tasks
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
+* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] **Header**: 7 botones (default)
 * [ ] Cuáles son los límites en la `Biblioteca de medios`?
-* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+* [ ] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
 * [ ] eliminar/actualizar/añadir ciertas imágenes desde la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 * [ ] Actualizar gráfico principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
 * [x] Actualizar menú `Institucional`
