@@ -34,3 +34,4 @@
 * [ ] add `Updated on DD/MM/YEAR` on Noticias / News
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Al final de cada página poner `Actualizado: DD/MM/AÑO`
+* [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
