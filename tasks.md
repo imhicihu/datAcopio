@@ -1,12 +1,14 @@
 ### Tasks
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+* [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] **Header**: 7 botones (default)
 * [ ] Cuáles son los límites en la `Biblioteca de medios`?
 * [ ] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
 * [ ] eliminar/actualizar/añadir ciertas imágenes desde la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
-* [ ] Actualizar gráfico principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
+* [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
+* [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
 * [x] Actualizar menú `Institucional`
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Líneas de investigación` a `Areas de investigación`
