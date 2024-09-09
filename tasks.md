@@ -1,6 +1,7 @@
 ### Tasks
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+* [ ] 404 error page --> 404 “Page Not Found”
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] **Header**: 7 botones (default)
