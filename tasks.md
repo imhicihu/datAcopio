@@ -36,3 +36,4 @@
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Al final de cada página poner `Actualizado: DD/MM/AÑO`
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
+* [ ] para crear thumbnails de los videos, utilizar esta [herramienta](https://parcel.io/tools/video-thumbnail)
