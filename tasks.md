@@ -38,3 +38,4 @@
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [ ] para crear thumbnails de los videos, utilizar esta [herramienta](https://parcel.io/tools/video-thumbnail)
 * [ ] Política de privacidad / __cookies treatment__
+* [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
