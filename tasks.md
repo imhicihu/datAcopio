@@ -42,3 +42,4 @@
 * [ ] Lapso de vencimiento de las `Noticias`: 30, 60 días?
 * [ ] Changelog (registro de cambios)
 * [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales
+* [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
