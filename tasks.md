@@ -44,4 +44,4 @@
 * [ ] Changelog (registro de cambios)
 * [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales
 * [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
-* [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es)
+* [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
