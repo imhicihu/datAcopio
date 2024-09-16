@@ -49,4 +49,4 @@
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 * [ ] Compartir calendario no funciona -> https://imhicihu.conicet.gov.ar/calendario/
 * [ ] Colofón
-* [ ] 404 pages
+* [x] 404 pages
