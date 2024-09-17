@@ -50,3 +50,4 @@
 * [ ] Compartir calendario no funciona -> https://imhicihu.conicet.gov.ar/calendario/
 * [ ] Colofón
 * [x] 404 pages
+* [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
