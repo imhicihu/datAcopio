@@ -51,3 +51,4 @@
 * [ ] Colofón
 * [x] 404 pages
 * [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
+* [ ] Updated digital collections section
