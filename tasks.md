@@ -49,7 +49,7 @@
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 * [ ] Compartir calendario no funciona -> https://imhicihu.conicet.gov.ar/calendario/
 * [ ] Colofón
-* [x] 404 pages
+* [x] 404 pages (every fail goes directly to `Home` section
 * [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
-* [ ] Updated digital collections section
+* [x] Updated digital collections section
 * [ ] All digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md)
