@@ -54,4 +54,5 @@
 * [x] Updated digital collections section
 * [ ] All digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md)
 * [x] Novedades section updated
-* [ ] Sección Enlaces? 
+* [ ] Sección Enlaces?
+* [ ] Links to share (Facebook & X) do not work
