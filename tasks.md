@@ -2,7 +2,7 @@
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 * [ ] falta favicon de la página general
-* [ ] 404 error page --> 404 “Page Not Found” // Si pongo una URL incorrecta me redirige a la página principal
+* [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] imagen principal: 1920 x 1080 px
@@ -56,3 +56,4 @@
 * [x] Novedades section updated
 * [ ] Sección Enlaces?
 * [ ] Links to share (Facebook & X) do not work
+* [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
