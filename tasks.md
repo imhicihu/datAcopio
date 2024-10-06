@@ -7,7 +7,6 @@
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] **Header**: 7 botones (default)
-* [ ] ¿Cuáles son los límites en la `Biblioteca de medios`?
 * [ ] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 * [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
