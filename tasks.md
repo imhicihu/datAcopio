@@ -56,3 +56,4 @@
 * [ ] Sección Enlaces?
 * [ ] Links to share (Facebook & X) do not work
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
+* [ ] Formulario Dr. Bórmida & Libretas
