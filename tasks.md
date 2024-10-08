@@ -59,3 +59,4 @@
 * [ ] Formulario Dr. Bórmida & Libretas
 * [x] Geodemos section uploaded
 * [ ] Colophon
+* [ ] Impressum
