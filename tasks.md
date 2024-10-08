@@ -60,3 +60,4 @@
 * [x] Geodemos section uploaded
 * [ ] Colophon
 * [ ] Impressum
+* [ ] Política de privacidad
