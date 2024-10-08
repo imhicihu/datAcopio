@@ -63,3 +63,5 @@
 * [ ] Política de privacidad
 * [ ] word counter -> timer
 * [ ] carbon footprint
+* [ ] Digital collections
+	* [X] PREP
