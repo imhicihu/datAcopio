@@ -58,3 +58,4 @@
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
 * [ ] Formulario Dr. Bórmida & Libretas
 * [x] Geodemos section uploaded
+* [ ] Colophon
