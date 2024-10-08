@@ -61,3 +61,4 @@
 * [ ] Colophon
 * [ ] Impressum
 * [ ] Política de privacidad
+* [ ] word counter -> timer 
