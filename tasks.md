@@ -61,4 +61,5 @@
 * [ ] Colophon
 * [ ] Impressum
 * [ ] Política de privacidad
-* [ ] word counter -> timer 
+* [ ] word counter -> timer
+* [ ] carbon footprint
