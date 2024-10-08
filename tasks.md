@@ -67,3 +67,4 @@
 * [ ] Digital collections
 	* [X] PREP
 	* [x] Praehistoria
+	* [x] Geodemos
