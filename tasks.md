@@ -54,6 +54,7 @@
 * [ ] All digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md)
 * [x] Novedades section updated
 * [ ] Sección Enlaces?
+* [x] se quitó `Noticias` del `main header`
 * [ ] Links to share (Facebook & X) do not work
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
 * [ ] Formulario Dr. Bórmida & Libretas
