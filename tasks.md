@@ -69,3 +69,4 @@
 	* [x] Praehistoria
 	* [x] Geodemos
 	* [x] REE
+	* [x] Temas Medievales
