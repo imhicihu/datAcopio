@@ -64,6 +64,7 @@
 * [ ] Impressum
 * [x] Sección `Historia`
 * [x] Sección `Objetivos`
+* [x] Sección `Autoridades`
 * [ ] Política de privacidad
 * [ ] word counter -> timer
 * [ ] carbon footprint
