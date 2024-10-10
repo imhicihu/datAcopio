@@ -51,7 +51,7 @@
 * [x] 404 pages (every fail goes directly to `Home` section
 * [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
 * [x] Updated digital collections section
-* [ ] All digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md)
+* [ ] All digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] Novedades section updated
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
