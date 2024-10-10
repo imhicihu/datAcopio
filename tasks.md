@@ -62,6 +62,7 @@
 	* [ ] original source code --> look 4! 
 * [x] Geodemos section uploaded
 * [ ] Colophon
+* [ ] `Papers` o `Publicaciones` 
 * [ ] `Seminario` updated
 * [ ] `Papers` updated
 * [ ] Impressum
