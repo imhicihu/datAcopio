@@ -62,6 +62,7 @@
 	* [ ] original source code --> look 4! 
 * [x] Geodemos section uploaded
 * [ ] Colophon
+* [ ] `Seminario` updated
 * [ ] Impressum
 * [x] Sección `Historia`
 * [x] Sección `Objetivos`
