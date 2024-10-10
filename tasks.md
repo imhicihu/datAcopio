@@ -56,6 +56,7 @@
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
 * [ ] Links to share (Facebook & X) do not work
+* [ ] Formulario de contacto no funciona!
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
 * [ ] Formulario Dr. Bórmida & Libretas
 	* [ ] original source code --> look 4! 
