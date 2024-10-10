@@ -63,6 +63,7 @@
 * [ ] Colophon
 * [ ] Impressum
 * [x] Sección `Historia`
+* [x] Sección `Objetivos`
 * [ ] Política de privacidad
 * [ ] word counter -> timer
 * [ ] carbon footprint
