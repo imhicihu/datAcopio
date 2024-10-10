@@ -68,6 +68,6 @@
 * [ ] Digital collections
 	* [X] Informes de investigación (PREP)
 	* [x] Praehistoria
-	* [x] Geodemos
+	* [x] Geodemos (updated)
 	* [x] REE
 	* [x] Temas Medievales
