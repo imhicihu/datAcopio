@@ -62,6 +62,7 @@
 * [x] Geodemos section uploaded
 * [ ] Colophon
 * [ ] Impressum
+* [x] Sección `Historia`
 * [ ] Política de privacidad
 * [ ] word counter -> timer
 * [ ] carbon footprint
