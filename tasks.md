@@ -71,7 +71,7 @@
 * [x] Sección `Autoridades`
 * [ ] Política de privacidad
 * [ ] word counter -> timer
-* [ ] carbon footprint
+* [ ] [carbon footprint](https://www.websitecarbon.com/)
 * [ ] Digital collections
 	* [X] Informes de investigación (PREP)
 	* [x] Praehistoria
