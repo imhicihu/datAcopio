@@ -75,8 +75,8 @@
 * [ ] word counter -> timer
 * [ ] [carbon footprint](https://www.websitecarbon.com/)
 * [ ] Digital collections
-	* [X] Informes de investigación (PREP)
-	* [x] Praehistoria
-	* [x] Geodemos (updated)
-	* [x] REE
-	* [x] Temas Medievales
+	* [X] Informes de investigación (PREP) (navigation fixed)
+	* [x] Praehistoria (navigation fixed)
+	* [x] Geodemos (updated) (navigation fixed)
+	* [x] REE (navigation fixed)
+	* [x] Temas Medievales (navigation fixed)
