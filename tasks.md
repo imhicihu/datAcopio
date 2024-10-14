@@ -65,6 +65,7 @@
 * [ ] `Papers` o `Publicaciones` 
 * [ ] `Seminario` updated
 * [ ] `Papers` updated
+* [ ] `Seminarios` updated
 * [ ] Impressum
 * [x] Sección `Historia`
 * [x] Sección `Objetivos`
