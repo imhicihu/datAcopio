@@ -63,7 +63,7 @@
 * [x] Geodemos section uploaded
 * [ ] Colophon
 * [x] sitemap generator (obfuscated!)
-* [ ] `Papers` o `Publicaciones` 
+* [ ] ~~`Papers`~~ o `Publicaciones` 
 * [ ] `Seminario` updated
 * [ ] `Papers` updated
 * [ ] `Seminarios` updated
