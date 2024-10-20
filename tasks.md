@@ -18,6 +18,7 @@
 * [ ] Borrar todas las `Entradas`
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
+* [x] added `Proyectos`
 * [ ] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
 * [x] Verificar si `Biblioteca` va en el menú superior
 * [x] Google Analytics procedure (option enabled?)
