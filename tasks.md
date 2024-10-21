@@ -65,7 +65,7 @@
 * [ ] Colophon
 * [x] sitemap generator (obfuscated!)
 * [ ] ~~`Papers`~~ o `Publicaciones` 
-* [ ] `Seminario` updated
+* [x] `Seminarios` updated (21-oct)
 * [ ] `Papers` updated
 * [ ] `Seminarios` updated
 * [ ] Impressum
