@@ -25,3 +25,9 @@ Panateri, Daniel (2022) "*Unidad material y unidad textual del libro de derecho*
 Pichel, Ricardo (2021) "*En torno al contexto de producción del códice neoyorquino de la Primera Partida (HSA, HC397/573)*", Olivar, 21.34.
 
 Puigdengolas, Johan (2021) "*Lector in ffabla. Estructuras del Setenario de Alfonso X el Sabio (I)*", Olivar, 21.34.
+
+---
+##### Objetivo
+El principal objetivo de este Proyecto es estudiar el rol que las dos principales cuencas hídricas de la costa rionegrina habrían jugado dentro de los sistemas de movilidad y asentamiento de las poblaciones cazadoras-recolectoras-pescadoras que habitaron el área durante el Holoceno medio y tardío. A partir de nuestras investigaciones previas se han relevado bienes como la obsidiana, que provendrían de sectores ubicados en el interior del continente. Esta relación con áreas distantes queda evidenciada también en los diseños de las cáscaras de huevo grabadas, placas líticas y petroglifos, que se repiten en zonas distantes de Patagonia. En este sentido, consideramos que corredores naturales como serían las cuencas de los arroyos Salado y Verde podrían haber funcionado como vectores de paso hacia el interior del continente, constituyéndose en vías de circulación más que en espacios de uso prolongado o recurrente. Poner en relación la nueva información generada con la ya obtenida en años previos, aportará al conocimiento de los grupos que vivieron en Norpatagonia durante el Holoceno medio y tardío, permitiendo así la puesta en valor del patrimonio arqueológico con vistas al desarrollo de emprendimientos turísticos/culturales en el área.
+##### Libros o Productos asociados
+Borella, F., N. Carden, J. Alberti, E. Carranza y D. Herrera Villegas. 2019. *Primeras investigaciones arqueológicas en el curso medio del arroyo Salado, departamento de San Antonio (Río Negro)*. Libro de Resúmenes XX Congreso Nacional de Arqueología Argentina: 272-273. UNC-IDACOR-CONICET. Córdoba, julio 2019.
