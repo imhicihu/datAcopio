@@ -75,5 +75,11 @@ El objetivo general del proyecto es generar y difundir conocimiento jurídico y 
 
 ---
 
-
+##### Objetivo
+El proyecto busca avanzar en la comprensión de la dinámica poblacional y de los patrones de asentamiento de los grupos humanos que ocuparon la costa marina, dunas y pastizales adyacentes en el sector central de la provincia de Buenos Aires, durante el Holoceno tardío, a partir de diversas líneas de evidencia. Paralelamente contempla difundir y transferir a la comunidad local los resultados de las investigaciones arqueológicas; colaborar y revalorizar las colecciones arqueológicas depositadas en museos locales y particulares, realizar capacitaciones, y diseñar materiales didácticos para los museos, guardaparques de Parques nacionales y Reservas municipales, y visitantes, a fin de potenciar la oferta turística local
+##### Libros o Productos asociados
+Aldazabal, V.; Eugenio, E. y Silveira, M. 2018 *Nuevos datos sobre la subsistencia de los cazadores recolectores del sitio “Divisadero monte 6” (partido de General Lavalle, Provincia de Buenos Aires)*”, Cuadernos de Antropología, No. 18: 105-120. Julio-Diciembre, Un.Lu. ISSN: 0328-9478 (impreso). ISSN: 2314-2383 (digital).
+Aldazabal y Bellotti 2019 *Guanacos en la playa* Revista de Antropología del Museo de Entre Ríos 5 (1): 15-23. issn: 2347-033x
+Aldazabal V., E.Eugenio y P. García Laborde.2020 *Restos humanos en la costa marina del partido de Mar Chiquita, provincia de Buenos Aires*. Revista Argentina de Antropología Biológica, 22 (2): 1-7. doi: 10.24215/18536387e022
+ARQUEOLOGIA EN LAS DUNAS. Reserva Natural Municipal Faro Querandí. Tríptico para visitantes. (2018)
 
