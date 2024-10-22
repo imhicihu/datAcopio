@@ -97,3 +97,12 @@ En función de dichos objetivos, se ha seleccionado y ordenado temáticamente un
 * Dossier: En torno a Heymerico de Campo, *Temas Medievales* 26, 2018.
 * Mesa sobre Heymerico de Campo en AFRA 2019.
 
+---
+
+##### Objetivo
+El objetivo general del proyecto consiste en analizar y preparar traducciones de tres sagas, obras en prosa compuestas en Islandia durante la Edad Media, que se encuentran inéditas en castellano: La Saga de Thórir, el de las gallinas, la Saga de Björn, campeón de los hombres de Hítardalr y la Saga de los Asesinatos del Páramo
+##### Libros o Productos asociados
+* Libro *Tres Relatos Medievales Nórdicos: La Saga de Þórir, la Saga de Olkofri y el Cuento de Brandr*, Buenos Aires, 2018
+* Capítulo de Libro: “*La Saga de Þórir, el de las gallinas: cultura letrada y figuras subalternas en el mundo nórdico medieval*”. En Cultura letrada e identidades sociales en el mundo medieval, siglos IV-XV, Buenos Aires, 2019.
+
+--- 
