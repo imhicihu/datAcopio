@@ -83,3 +83,17 @@ El proyecto busca avanzar en la comprensión de la dinámica poblacional y de lo
 * Aldazabal V., E.Eugenio y P. García Laborde.2020 *Restos humanos en la costa marina del partido de Mar Chiquita, provincia de Buenos Aires*. Revista Argentina de Antropología Biológica, 22 (2): 1-7. *doi*: https://doi.org/10.24215/18536387e022
 * Arqueología en las Dunas. Reserva Natural Municipal Faro Querandí. Tríptico para visitantes. (2018)
 
+---
+
+##### Objetivo
+El objetivo general de este proyecto es determinar el alcance y la estructura del conocimiento científico y el método de la ciencia que propone Heymerico, teniendo en cuenta tanto su concepción de la ciencia y de su método, como su aplicación político-eclesiológica.
+El proyecto está estructurado según cuatro objetivos generales:
+1. El primero es sistematizar la metafísica propuesta por Heymerico y sus consecuencias epistémicas.
+2. El segundo es estudiar las fuentes explícitas del sistema: Aristóteles, Alberto Magno y Raimundo Lulio, a través de las obras de Heymerico dedicadas a tales autores.
+3. El tercero es estudiar el diálogo de Heymerico con su contemporáneo Nicolás de Cusa.
+4. El cuarto es analizar la aplicación del sistema al conciliarismo y la tolerancia religiosa.
+En función de dichos objetivos, se ha seleccionado y ordenado temáticamente un número de textos del autor – editados y en proceso de edición – que serán analizados y – en los casos pertinentes – colacionados con fuentes de la tradición que hayan tenido especial influencia en ellos.
+##### Libros o Productos asociados
+* Dossier: En torno a Heymerico de Campo, *Temas Medievales* 26, 2018.
+* Mesa sobre Heymerico de Campo en AFRA 2019.
+
