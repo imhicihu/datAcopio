@@ -2,7 +2,7 @@
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 * [x] ~~falta~~ favicon de la página general
-* [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
+* [x] ![screenshot.png](images/Screenshot 2024-10-22_at_12.24.31.png)
 * [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
