@@ -30,7 +30,7 @@ Puigdengolas, Johan (2021) "*Lector in ffabla. Estructuras del Setenario de Alfo
 ##### Objetivo
 El principal objetivo de este Proyecto es estudiar el rol que las dos principales cuencas hídricas de la costa rionegrina habrían jugado dentro de los sistemas de movilidad y asentamiento de las poblaciones cazadoras-recolectoras-pescadoras que habitaron el área durante el Holoceno medio y tardío. A partir de nuestras investigaciones previas se han relevado bienes como la obsidiana, que provendrían de sectores ubicados en el interior del continente. Esta relación con áreas distantes queda evidenciada también en los diseños de las cáscaras de huevo grabadas, placas líticas y petroglifos, que se repiten en zonas distantes de Patagonia. En este sentido, consideramos que corredores naturales como serían las cuencas de los arroyos Salado y Verde podrían haber funcionado como vectores de paso hacia el interior del continente, constituyéndose en vías de circulación más que en espacios de uso prolongado o recurrente. Poner en relación la nueva información generada con la ya obtenida en años previos, aportará al conocimiento de los grupos que vivieron en Norpatagonia durante el Holoceno medio y tardío, permitiendo así la puesta en valor del patrimonio arqueológico con vistas al desarrollo de emprendimientos turísticos/culturales en el área.
 ##### Libros o Productos asociados
-Borella, F., N. Carden, J. Alberti, E. Carranza y D. Herrera Villegas. 2019. *Primeras investigaciones arqueológicas en el curso medio del arroyo Salado, departamento de San Antonio (Río Negro)*. Libro de Resúmenes XX Congreso Nacional de Arqueología Argentina: 272-273. UNC-IDACOR-CONICET. Córdoba, julio 2019.
+- Borella, F., N. Carden, J. Alberti, E. Carranza y D. Herrera Villegas. 2019. *Primeras investigaciones arqueológicas en el curso medio del arroyo Salado, departamento de San Antonio (Río Negro)*. Libro de Resúmenes XX Congreso Nacional de Arqueología Argentina: 272-273. UNC-IDACOR-CONICET. Córdoba, julio 2019.
 
 ---
 ##### Objetivo
@@ -72,3 +72,8 @@ El objetivo general del proyecto es generar y difundir conocimiento jurídico y 
 - Manzanelli, Macarena Del Pilar. "*Políticas de reconstrucción de la identidad indígena en la provincia de Buenos Aires: ¿Nuevas formas de empoderamiento?*". En V Congreso Uruguayo de Ciencia Política. ¿Qué Ciencia Política para qué Democracia?, Uruguay: Asociación Uruguaya de Ciencia Política. 2014.
 - Manzanelli, Macarena Del Pilar. "*Los Pueblos Originarios y la democracia en Argentina: avances y desafíos*.". En Memorias del XI Congreso Nacional y IV Internacional sobre Democracia: entre el malestar y la innovación: los nuevos retos para la democracia en América Latina, Argentina: Editorial de la Universidad Nacional de Rosario. 2014. 978-987-702-080-9.
 - Manzanelli, Macarena Del Pilar. "*Políticas de identidad indígena y representaciones en los nuevos medios de comunicación audiovisual*". En "*La política en movimiento. Estados, democracias y diversidades regionales*", Argentina: Sociedad Argentina de Análisis Política y Universidad Nacional de Entre Ríos. 2013.
+
+---
+
+
+
