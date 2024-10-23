@@ -106,3 +106,9 @@ El objetivo general del proyecto consiste en analizar y preparar traducciones de
 * Capítulo de Libro: “*La Saga de Þórir, el de las gallinas: cultura letrada y figuras subalternas en el mundo nórdico medieval*”. En Cultura letrada e identidades sociales en el mundo medieval, siglos IV-XV, Buenos Aires, 2019.
 
 --- 
+
+##### Objetivo
+El objetivo de este proyecto es evaluar el poblamiento y ocupación del extremo sur del Macizo del Deseado (ESMD) y de las formaciones basálticas meridionales lindantes, con especial énfasis en la variabilidad en la estructura de recursos en ambos ambientes. Estos espacios presentan ofertas diferenciales de agua, reparos y soportes rocosos y materias primas líticas y pigmentarias, tanto dentro del Macizo del Deseado como entre éste y los espacios basálticos próximos. El proyecto busca identificar y analizar los vínculos entre estos contextos ambientales y los cambios témporo-espaciales en las estrategias de utilización y movilidad por parte de poblaciones cazadoras-recolectoras, desde la transición Pleistoceno-Holoceno hasta momentos recientes.
+##### Libros o Productos asociados
+- Franco, N. V., L. Vetrisano, M. V. Mancini y G. A. Brook. 2020. Nueva información referida a la transición Pleistoceno-Holoceno y al Holoceno temprano en el extremo sur del Macizo del Deseado (Patagonia, Argentina). Revista del Museo de La Plata 5 (1): 108-124. Dossier tempranas en América del Sur: voces desde el Cono Sur. Editores invitados: C. Weitzel, N. Mazzia, D. Hermo, D. Bozzuto, L. Marchioni y J. Motti. En prensa.
+- Franco, N. V., M. D. Glascock, B. Macdonald y B. Gilio. 2020. Entre el Macizo del Deseado y la margen norte de la cuenca del río Santa Cruz (Patagonia, Argentina). Análisis geoquímico de artefactos de obsidiana y modelos de circulación humana. Magallania 48(1): 141-160.
