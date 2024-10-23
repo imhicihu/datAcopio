@@ -190,5 +190,5 @@ El proyecto no posee trabajos publicados al momento.
 ##### Objetivo
 El objetivo general del proyecto consiste en comprender las causas y los efectos de los discursos cristianos *adversus Iudaeos* en la Antigüedad Tardía. Se investigan, por una parte, las estrategias desplegadas por las ortodoxias cristianas para demarcar la pertenencia al cristianismo a través del empleo de la figura del judío, así como también el modo en el que el discurso antijudío se plasmó en la legislación del período. Por otra parte, se indaga la recepción que los discursos *adversus Iudaeos* tuvieron en la población general.
 ##### Libros o Productos asociados
-“*The Jews in Late Antiquity*”, Arc Humanities Press, Leeds, 2018.
-“*Antijudaísmo, antisemitismo y judeofobia. Desde la Antigüedad Clásica al atentado a la AMIA*”, Miño & Davila, Buenos Aires (en prensa).
+- “*The Jews in Late Antiquity*”, Arc Humanities Press, Leeds, 2018.
+- “*Antijudaísmo, antisemitismo y judeofobia. Desde la Antigüedad Clásica al atentado a la AMIA*”, Miño & Davila, Buenos Aires (en prensa).
