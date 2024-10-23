@@ -112,3 +112,17 @@ El objetivo de este proyecto es evaluar el poblamiento y ocupación del extremo 
 ##### Libros o Productos asociados
 - Franco, N. V., L. Vetrisano, M. V. Mancini y G. A. Brook. 2020. *Nueva información referida a la transición Pleistoceno-Holoceno y al Holoceno temprano en el extremo sur del Macizo del Deseado (Patagonia, Argentina)*. Revista del Museo de La Plata 5 (1): 108-124. Dossier tempranas en América del Sur: voces desde el Cono Sur. Editores invitados: C. Weitzel, N. Mazzia, D. Hermo, D. Bozzuto, L. Marchioni y J. Motti. En prensa.
 - Franco, N. V., M. D. Glascock, B. Macdonald y B. Gilio. 2020. *Entre el Macizo del Deseado y la margen norte de la cuenca del río Santa Cruz (Patagonia, Argentina). Análisis geoquímico de artefactos de obsidiana y modelos de circulación humana*. Magallania 48(1): 141-160.
+
+---
+
+##### Objetivo
+Se proponen como objetivos específicos:
+- Describir y explicar la dinámica inmobiliaria generada por las grandes empresas desarrolladoras y las consecuencias socio-económicas, territoriales y ambientales sobre los suelos productivos y/o de interés paisajístico y sobre la trama urbana.
+- Indagar en la temática de la hibridez del periurbano condicionado por el creciente aumento de megaproyectos inmobiliarios y sus consecuencias en la sustentabilidad del entorno.
+- Analizar, caracterizar y explicar el surgimiento de nuevas áreas de centralidad excéntricas de la trama urbana, y de las vinculaciones que establecen con el contexto, estudiando los posibles procesos de complementariedad o de competencia relacionados con la revitalización urbana.
+- Estudiar la evolución de los procesos de urbanización privada en relación con la traza vial de la periferia metropolitana, y de los sistemas de transporte público en relación con los proyectos de hábitat social y los asentamientos informales.
+- Explicar los procesos de reconfiguración socio-espacial metropolitanos, a partir de la incorporación de las cuñas de urbanización desarrolladas a lo largo de los corredores viales, estudiando en casos-tipo el impacto del mercado inmobiliario y sus consecuencias sobre los estratos de población más vulnerable.
+
+##### Libros o Productos asociados
+- Vidal S. y Liberali A. (Comps.) (2019) *Movilidad y Pobreza. Otras miradas sobre las marginaciones sociales y la planificación territorial*. Buenos Aires: IMHICIHU-CONICET, págs. 350. ISBN 978-987-4934-08-6.
+- Vidal S. *Dinámica socio-espacial de regiones metropolitanas. Claves para el análisis de un fenómeno complejo*. Buenos Aires. IMHICIHU-CONICET, págs. 356. ISBN 978-987-4934-01-7.
