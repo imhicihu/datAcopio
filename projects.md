@@ -192,3 +192,16 @@ El objetivo general del proyecto consiste en comprender las causas y los efectos
 ##### Libros o Productos asociados
 - “*The Jews in Late Antiquity*”, Arc Humanities Press, Leeds, 2018.
 - “*Antijudaísmo, antisemitismo y judeofobia. Desde la Antigüedad Clásica al atentado a la AMIA*”, Miño & Davila, Buenos Aires (en prensa).
+
+---
+
+Objetivo
+Crear una red transnacional interdisciplinaria de investigación y entrenamiento entre universidades y centros de investigación de Europa y América Latina a fin de promover la transferencia de conocimiento y la formación de recursos humanos.
+
+Producir investigación innovadora, producir publicaciones y fundar una revista nueva sobre el campo de la gobernanza multinivel de la diversidad cultural y la agencia de minorías y migrantes en una perspectiva comparada.
+
+Generar nuevos modelos teórico-conceptuales en perspectiva comparada como herramientas en el campo de la gobernanza multinivel de la diversidad cultural en diferentes niveles.
+Libros o Productos asociados
+Ninguno
+Resultados
+La gobernanza de la diversidad cultural es una cuestión clave para la Europa contemporánea y para América Latina. Acomodarse a la creciente diversidad cultural de acuerdo con una posición balanceada, frente al reconocimiento de las diferencias con la promoción de una participación igualitaria, en términos de derechos, en la esfera pública, es una tarea por hacer en un futuro deseable. Socios Integrantes del consorcio GovDiv Unión Europea Portugal: University of Minho, CICS – Coordinator; Instituto Universitário de Lisboa Italia: University of Florence España: Universidad de Sevilla y Universidad de Granada América Latina Brasil: Universidade do Estado de Santa Catarina (Florianopolis) Mexico: Instituto Nacional de Antropologia e Historia – INAH (Oaxaca) y Universidad Autonóma de Coahuila – Saltillo Argentina: CONICET-IMHICIHU, Buenos Aires Uno de sus resultados es el libro Sassone, S.; Padilla, B.; González, M.; Matossian, B.; Melella, C. (compiladoras) Diversidad, migraciones y participación ciudadana: Identidades y relaciones interculturales. Buenos Aires: CONICET Consejo Nacional de Investigaciones Científicas y Técnicas – IMHICIHU Instituto Multidisciplinario de Historia y Ciencias Humanas, 2020. 408 pags. ISBN 978-987-4934-09-3. http://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf

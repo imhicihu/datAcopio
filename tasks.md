@@ -74,6 +74,7 @@
 * [x] Sección `Objetivos`
 * [x] Sección `Autoridades`
 * [ ] Política de privacidad
+* [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
 * [ ] word counter -> timer
 * [ ] [carbon footprint](https://www.websitecarbon.com/)
 * [ ] Digital collections
