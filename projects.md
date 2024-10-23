@@ -126,3 +126,20 @@ Se proponen como objetivos específicos:
 ##### Libros o Productos asociados
 - Vidal S. y Liberali A. (Comps.) (2019) *Movilidad y Pobreza. Otras miradas sobre las marginaciones sociales y la planificación territorial*. Buenos Aires: IMHICIHU-CONICET, págs. 350. ISBN 978-987-4934-08-6.
 - Vidal S. *Dinámica socio-espacial de regiones metropolitanas. Claves para el análisis de un fenómeno complejo*. Buenos Aires. IMHICIHU-CONICET, págs. 356. ISBN 978-987-4934-01-7.
+
+---
+
+##### Objetivo
+Se propone avanzar en el estudio de la articulación socio-espacial entre dos ejes problemáticos de la relación migración–interculturalidad-territorio, a saber: a) tensiones y resistencias entre las políticas públicas tendientes a la inclusión social y la interculturalidad, con sus discursos y su puesta en práctica en la sociedad civil y b) la particularidad que estos procesos adquieren para los migrantes, como actores sociales multiescalares, a través de su acceso a los derechos como de las prácticas de visibilización, de intervención cultural y de participación comunitaria y política en las sociedades de destino. Tal planteo contribuye al estudio de las migraciones internacionales contemporáneas desde la óptica de la diversidad cultural y la justicia espacial. El caso de estudios son los espacios metropolitanos suburbanos, en particular del Area Metropolitana de Buenos Aires, con un análisis específico en el partido La Matanza. Si bregamos por la inclusión social nos encontraremos con la justicia espacial y tal ecuación se plasma en las que llamaremos cartografías multiescalares, pues las institucionalidades definen las posibilidades de acceso a derechos, más las construidas desde los propios migrantes, juegan en la lógica global-local.
+##### Libros o Productos asociados
+Los resultados quedan expuestos en publicaciones, participaciones en congresos y en el dictado de conferencias.
+Se realizaron distintas publicaciones que analizan la presencia y distribución de los principales grupos migrantes en el partido y sus localidades, avanzando en el análisis geodemográfico, desagregado en escalas microlocales.
+También se indaga sobre la complejidad territorial del partido cuya fragmentación urbana deviene en una acelerada multiplicación de límites y fronteras intraurbanas. El foco se puso en el análisis del derecho a la ciudad en barrios populares.
+Se trabaja sobre los alcances de las políticas públicas en la institucionalidad reguladora del acceso a derechos de los migrantes, en particular, en referencia al acceso al derecho a la salud.
+Se analizan las percepciones multiactorales sobre el partido de La Matanza y las comunidades de inmigrantes y, a su vez, sobre cómo los medios hegemónicos tienen el poder de transformar la imaginación urbana y actuar sobre la significación de esas percepciones.
+Sobre las polifónicas percepciones de los migrantes, se trabaja sobre los discursos de referentes institucionales y líderes migrantes, así como la de los miembros de las colectividades más representativas.
+Se están realizando trabajos sobre los derechos políticos de los migrantes, participación ciudadana y políticas interculturales.
+Se participó de distintos encuentros: la Mesa Migrante, organizada desde el CAMI Centro de Atención al Migrante (Isidro Casanova), supervisado por las Misioneras de San Carlos (Scalabrinianos); el Programa *El Estado en tu barrio*, de orden nacional; y el de las *Mesas Territoriales*, a instancias del gobierno municipal y del gobierno provincial.
+En igual sentido, la línea de investigación de este proyecto viene vinculado con el Proyecto *Proyecto GovDiv Multilevel governance of cultural diversity in a comparative perspective: EU-Latin America*. PIRSES 612617 - Marie Curie Actions, European Commission / 7th Programa Marco y CONICET (2013-2018) que ha estimulado un fluído intercambio académico con investigadores de Portugal, España, Italia, México y Brasil.
+
+---
