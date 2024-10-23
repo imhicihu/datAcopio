@@ -177,3 +177,10 @@ Este proyecto tiene como objetivo general caracterizar el rol del sector argenti
 - *Arroyos, Tierra del Fuego*. Magallania 46(2):167-185. [http://www.magallania.cl/index.php/magallania/article/view/1072/831](https://www.sciencedirect.com/journal/journal-of-archaeological-science-reports/special-issue/10Q77W6RC4S)
 - Ozán, I., y M.C. Pallo (2019) *Past human populations and landscapes in the Fuegian Archipelago, southernmost South America*. Quaternary Research 92(2): 304-322. ISSN 0033-5894 (Print), 1096-0287 (Online). doi:10.1017/qua.2018.157
 - [https://www.cambridge.org/core/journals/quaternary-research/article/past-human-populations-and-landscapes-in-the-fuegian-archipelago-southernmost-south-america/387DDCE738BB19FB4741BBF43085760E](https://www.sciencedirect.com/journal/journal-of-archaeological-science-reports/special-issue/10Q77W6RC4S)
+
+---
+
+Objetivo
+El presente proyecto busca modelar la historia de vida y eficiencia funcional de las puntas de proyectil líticas del holoceno temprano y medio de la Patagonia Argentina. Para ello se utilizan herramientas experimentales (replicación y uso) y estadísticas (modelado 3D, métodos multivariados), con el fin de generar modelos cuantitativos del cambio morfológico y métrico a lo largo del ciclo de vida de las puntas líticas (que comprende sucesivas etapas de mantenimiento y reutilización). Los modelos resultantes de la experimentación se compararán luego con los datos arqueológicos con el fin de contrastar las expectativas generadas por éstos y así generar un entendimiento más profundo de estas tecnologías.
+Libros o Productos asociados
+El proyecto no posee trabajos publicados al momento
