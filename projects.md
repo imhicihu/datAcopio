@@ -155,3 +155,13 @@ Ninguno
 El objetivo general de este proyecto es contribuir a la historia religiosa del período mencionado atendiendo a un aspecto particular, esto es, la relación entre discursos y prácticas sociales en la construcción de las grandes tradiciones religiosas del cercano Oriente. Circunscribimos nuestro marco de análisis a un área geográfica y periodo específicos: los márgenes orientales del Imperio romano de oriente y el mundo iranio entre los siglos I al VII. Este objetivo general es doble. En primer lugar, estableceremos la relación entre la formación de dichas tradiciones religiosas y los cambios sociales, culturales y políticos a mayor escala ocurridos durante el período, entre otros la transformación del mundo urbano a finales de la Antigüedad y la configuración de formas estatales tributarias. En segundo lugar, compararemos los mecanismos específicos de construcción de la identidad religiosa.
 ##### Libros o Productos asociados
 Ninguno
+
+---
+
+##### Objetivo
+El objetivo general de este proyecto es el de definir la índole de las relaciones que existieron entre Egipto y el Levante meridional durante la época del Bronce Antiguo I, en torno de la segunda mitad del IV milenio a.C. Se trata de una época en la que se registra la presencia de material levantino en diversos sitios del centro y norte de Egipto, y –particularmente– de abundante y variado material arqueológico egipcio en la zona sur y centro de Palestina y en menor medida en algunos sitios del este y el norte. En este marco, el presente proyecto apunta a profundizar el estudio de este período y a generar nuevo conocimiento que permita determinar el tipo de relaciones establecidas por estas regiones en una época crítica que coincide con el proceso de surgimiento y expansión del Estado en el valle del Nilo y con los principios de la primera urbanización en Palestina. La posibilidad de determinar en profundidad la índole de las relaciones entre ambas regiones permitirá comprender de un modo más preciso los modos antiguos de subordinación sociopolítica, las formas de intercambio y las relaciones desiguales entre diferentes centros de civilización del Cercano Oriente.
+##### Libros o Productos asociados
+M. Campagno, I. Milevski, B. Gandulla, P. Jaruf, M.B. Daizo, M. Czarnowicz, A. Ochal-Czarnowicz, J. Karmowski, D. Yegorov, E. Cohen-Sasson y Y. Yekutieli: *Tel Erani, Israel: Reporte de la campaña arqueológica de 2018 y sus antecedentes*, Revista del Instituto de Historia Antigua Oriental Dr. Abraham Rosenvasser, vol. 20, 2019, ISSN 0325-1209, Buenos Aires, pp. 5-22.
+
+--- 
+
