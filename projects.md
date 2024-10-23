@@ -252,3 +252,12 @@ Este proyecto apunta a estudiar y debatir acerca de la naturaleza de la coloniza
 - Acuto, F.A., A. Troncoso, A. Ferrari, D. Pavlovic, C. Jacob, E. Gilardenghi, R. Sánchez, C. Amuedo y M. Smith. 2010. *Espacialidad incaica en los Andes del Sur: La colonización simbólica del paisaje y la ritualidad Inca en Chile Central y el valle Calchaquí Norte*. En Actas del XVII Congreso Nacional de Arqueología Argentina, Tomo III, editado por J.R. Bárcena y H. Chiavazza, pp. 1297-1302. INCIHUSA-CONICET, Mendoza. ISBN: 978-987-9126-86-8.
 - Jacob, C., R. Moyano, F.A. Acuto e I. Leibowicz. 2010. *Quilca del Cielo, Valle Calchaquí, Salta, Argentina*. Boletín de la Asociación Peruana de Arte Rupestre 1(1): 348-350. ISSN: 2219-9314.
 - Acuto, F.A. 2009. *Colonizando los Andes en tiempos del Tawantinsuyu: Paisajes, experiencias rituales y los Inkas como ancestros*. En Parentesco, patronazgo y Estado en las sociedades antiguas, editado por Marcelo Campagno, pp. 267-296. Facultad de Filosofía y Letras, Universidad de Buenos Aires. ISBN: 978-987-1450-56-5.
+
+---
+
+##### Objetivo
+El objetivo general se dirige a efectuar un estudio morfológico, técnico, composicional y distribucional de las expresiones visuales del CVPA, teniendo como objetivos específicos: 
+- reconocer las elecciones efectuadas por las poblaciones humanas, en cuanto a continuidades y variaciones en la transmisión cultural
+- calibrar los procesos de alteración de motivos a causa de por factores microambientales y daño antrópico subactual.
+##### Libros o Productos asociados
+- *Guanacos grabados en el interfluvio de los ríos Gallegos-Chico (campo volcánico Pali Aike, Pcia de Santa Cruz): su distribución más austral en Patagonia*. III CONAR. Buenos Aires. 2019.
