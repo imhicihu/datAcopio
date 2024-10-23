@@ -180,7 +180,15 @@ Este proyecto tiene como objetivo general caracterizar el rol del sector argenti
 
 ---
 
-Objetivo
+##### Objetivo
 El presente proyecto busca modelar la historia de vida y eficiencia funcional de las puntas de proyectil líticas del holoceno temprano y medio de la Patagonia Argentina. Para ello se utilizan herramientas experimentales (replicación y uso) y estadísticas (modelado 3D, métodos multivariados), con el fin de generar modelos cuantitativos del cambio morfológico y métrico a lo largo del ciclo de vida de las puntas líticas (que comprende sucesivas etapas de mantenimiento y reutilización). Los modelos resultantes de la experimentación se compararán luego con los datos arqueológicos con el fin de contrastar las expectativas generadas por éstos y así generar un entendimiento más profundo de estas tecnologías.
-Libros o Productos asociados
-El proyecto no posee trabajos publicados al momento
+##### Libros o Productos asociados
+El proyecto no posee trabajos publicados al momento.
+
+---
+
+##### Objetivo
+El objetivo general del proyecto consiste en comprender las causas y los efectos de los discursos cristianos adversus Iudaeos en la Antigüedad Tardía. Se investigan, por una parte, las estrategias desplegadas por las ortodoxias cristianas para demarcar la pertenencia al cristianismo a través del empleo de la figura del judío, así como también el modo en el que el discurso antijudío se plasmó en la legislación del período. Por otra parte, se indaga la recepción que los discursos adversus Iudaeos tuvieron en la población general.
+##### Libros o Productos asociados
+“*The Jews in Late Antiquity*”, Arc Humanities Press, Leeds, 2018.
+“*Antijudaísmo, antisemitismo y judeofobia. Desde la Antigüedad Clásica al atentado a la AMIA*”, Miño & Davila, Buenos Aires (en prensa).
