@@ -59,6 +59,7 @@
 * [x] Sección `Historia`
 * [x] Sección `Objetivos`
 * [x] Sección `Autoridades`
+* [ ] Sección `Repositorio digital`
 
 
 
