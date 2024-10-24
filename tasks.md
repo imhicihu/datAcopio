@@ -1,8 +1,6 @@
 ### Tasks
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
-* [x] ~~falta~~ favicon de la página general
-* [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
 * [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] imagen principal: 1920 x 1080 px
@@ -92,3 +90,5 @@
 * [ ] Formulario de contacto no envía el mensaje al correo electrónico de la secretaría del instituto
 * [ ] Compartir calendario no funciona -> https://imhicihu.conicet.gov.ar/calendario/
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
+* [x] ~~falta~~ favicon de la página general
+* [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
