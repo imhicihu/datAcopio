@@ -77,9 +77,15 @@
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
 * [ ] word counter -> timer
 * [ ] [carbon footprint](https://www.websitecarbon.com/)
+#### Autoridades
+* [ ] added final `&nbsp;`
+#### Libros digitalizados
 * [ ] Digital collections
 	* [X] Informes de investigación (PREP) (navigation fixed)
 	* [x] Praehistoria (navigation fixed)
 	* [x] Geodemos (updated) (navigation fixed)
 	* [x] REE (navigation fixed)
 	* [x] Temas Medievales (navigation fixed)
+
+#### Misceláneas
+
