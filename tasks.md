@@ -58,7 +58,7 @@
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
 
-* [ ] Formulario de contacto no funciona!
+
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
 * [ ] Formulario Dr. Bórmida & Libretas
 	* [ ] original source code --> look 4! 
@@ -92,3 +92,4 @@
 #### Errores
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
 * [ ] Links to share (Facebook & X) do not work
+* [ ] Formulario de contacto no envía el mensaje al correo electrónico de la secretaría del instituto
