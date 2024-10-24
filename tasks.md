@@ -7,13 +7,11 @@
 * [ ] **Header**: 7 botones (default)
 * [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
-* [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
-* [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
 * [x] Actualizar menú `Institucional`
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Líneas de investigación` a `Areas de investigación`
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Proyectos` a `Proyectos vigentes`
-* [ ] Borrar u ocultartodas las `Entradas` 
+* [x] ~~Borrar u ocultar todas las `Entradas`~~ 
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
 * [x] added `Proyectos`
@@ -93,3 +91,5 @@
 * [ ] Política de privacidad
 * [ ] *Impressum*
 * [ ] Colophon
+* [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
+* [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
