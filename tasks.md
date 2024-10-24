@@ -44,9 +44,7 @@
 * [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales
 * [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
-* [ ] Colofón
 * [x] 404 pages (every fail goes directly to `Home` section
-* [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
 * [x] Updated digital collections section
 * [ ] All digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] Novedades section updated
@@ -56,17 +54,15 @@
 * [ ] Formulario Dr. Bórmida & Libretas
 	* [ ] original source code --> look 4! 
 * [x] Geodemos section uploaded
-* [ ] Colophon
 * [x] sitemap generator (obfuscated!)
 * [ ] ~~`Papers`~~ o `Publicaciones` 
 * [x] `Seminarios` updated (21-oct)
 * [ ] `Papers` updated
 * [ ] `Seminarios` updated
-* [ ] Impressum
 * [x] Sección `Historia`
 * [x] Sección `Objetivos`
 * [x] Sección `Autoridades`
-* [ ] Política de privacidad
+
 
 
 #### Autoridades
@@ -90,4 +86,10 @@
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
 * [x] ~~falta~~ favicon de la página general
 * [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
+* [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
 * [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
+
+#### Por hacer
+* [ ] Política de privacidad
+* [ ] *Impressum*
+* [ ] Colophon
