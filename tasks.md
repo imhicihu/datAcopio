@@ -55,11 +55,11 @@
 * [ ] ~~`Papers`~~ o `Publicaciones` 
 * [x] `Seminarios` updated (21-oct)
 * [ ] `Papers` updated
-* [ ] `Seminarios` updated
+* [x] `Seminarios` updated
 * [x] Sección `Historia`
 * [x] Sección `Objetivos`
 * [x] Sección `Autoridades`
-* [ ] Sección `Repositorio digital`
+* [x] Sección `Repositorio digital`
 
 
 
