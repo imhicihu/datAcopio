@@ -261,3 +261,6 @@ El objetivo general se dirige a efectuar un estudio morfológico, técnico, comp
 - calibrar los procesos de alteración de motivos a causa de por factores microambientales y daño antrópico subactual.
 ##### Libros o Productos asociados
 - *Guanacos grabados en el interfluvio de los ríos Gallegos-Chico (campo volcánico Pali Aike, Pcia de Santa Cruz): su distribución más austral en Patagonia*. III CONAR. Buenos Aires. 2019.
+
+---
+
