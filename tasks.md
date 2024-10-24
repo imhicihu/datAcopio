@@ -2,7 +2,6 @@
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 * [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
-* [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] **Header**: 7 botones (default)
 * [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
@@ -90,6 +89,7 @@
 #### Por hacer
 * [ ] Política de privacidad
 * [ ] *Impressum*
-* [ ] Colophon
+* [ ] *Colophon*
+* [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
