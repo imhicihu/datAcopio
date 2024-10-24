@@ -4,7 +4,6 @@
 * [x] ~~falta~~ favicon de la página general
 * [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
 * [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
-* [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] **Header**: 7 botones (default)
@@ -48,7 +47,7 @@
 * [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
 * [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
-* [ ] Compartir calendario no funciona -> https://imhicihu.conicet.gov.ar/calendario/
+
 * [ ] Colofón
 * [x] 404 pages (every fail goes directly to `Home` section
 * [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
@@ -57,8 +56,6 @@
 * [x] Novedades section updated
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
-
-
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
 * [ ] Formulario Dr. Bórmida & Libretas
 	* [ ] original source code --> look 4! 
@@ -93,3 +90,5 @@
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
 * [ ] Links to share (Facebook & X) do not work
 * [ ] Formulario de contacto no envía el mensaje al correo electrónico de la secretaría del instituto
+* [ ] Compartir calendario no funciona -> https://imhicihu.conicet.gov.ar/calendario/
+* [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
