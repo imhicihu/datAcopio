@@ -48,8 +48,7 @@
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
-* [ ] Formulario Dr. Bórmida & Libretas
-	* [ ] original source code --> look 4! 
+
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
 * [ ] ~~`Papers`~~ o `Publicaciones` 
@@ -94,3 +93,5 @@
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
+* [ ] Formulario Dr. Bórmida & Libretas
+	* [ ] formulario original source code --> look 4! 
