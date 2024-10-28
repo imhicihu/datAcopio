@@ -32,13 +32,11 @@
 * [ ] Política de privacidad / __cookies treatment__
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
-* [ ] Changelog (registro de cambios)
 * [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales
 * [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 * [x] 404 pages (every fail goes directly to `Home` section
 * [x] Updated digital collections section
-* [ ] All digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] Novedades section updated
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
@@ -57,7 +55,7 @@
 * [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
 * [x] Formulario Dr. Bórmida & Libretas
 	* [x] formulario original source code --> look 4! CognitoForms
-
+* [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 
 #### Autoridades
 * [x] added final `&nbsp;`
@@ -87,6 +85,7 @@
 * [ ] Política de privacidad
 * [ ] *Impressum*
 * [ ] *Colophon*
+* [ ] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
