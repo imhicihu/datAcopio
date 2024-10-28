@@ -277,3 +277,24 @@ Estos propósitos contemplan el relevamiento bibliográfico, la recopilación en
 Los sistemas de indicadores territoriales constituyen paquetes de indicadores estadísticos referidos a un territorio y desagregados en unidades menores. Cada indicador puede ser volcado en un mapa y analizado individualmente, pero a la vez los indicadores se pueden cruzar estableciendo asociaciones con distintos niveles de complejidad que van desde las bivariadas a las multivariadas.
 ##### Metodología
 La metodología utilizada se engloba genéricamente en el denominado análisis espacial. Parte del diseño conceptual del sistema, la posterior recolección y o producción de la información, su tratamiento geoestadístico y luego su geo-referenciamiento, a los efectos de transformarla en un sistema de información geográfica (SIG). Más allá de esta etapa tecnológica, la metodología incluye todos los pasos del método científico, comenzando con la observación en el terreno, la descripción de los indicadores y su distribución territorial, la explicación e interpretación de las asociaciones entre indicadores, la síntesis y la prospección. La actualización permanente de los indicadores en una suerte de monitoreo lleva a la utilización de distintas herramientas para el análisis de series temporales, las que en su conjunto implican todo un análisis diacrónico.
+
+---
+
+##### Detalle
+Inventario y/o supervisión de inventario definitivo de material arqueológico recuperado en el área de ejecución de obras que implican, por ejemplo, la remoción de sedimentos/suelos y/o la circulación de individuos, vehículos o maquinarias; dicho inventario se ajusta a las normas establecidas por la Autoridad de Aplicación para la entrega definitiva de los materiales arqueológicos.
+##### Metodología
+Diseño de planillas de inventario. Registro, fotografía, siglado y embalaje de materiales arqueológicos. Confección de bases de datos. Supervisión, dirección, coordinación y/o realización de tareas de inventario efectuado por personal contratado por empresas o consultoras. Inclusión de datos en informes o elaboración de informe de tareas realizadas de acuerdo a la normativa de la Autoridad de Aplicación.
+
+---
+
+##### Detalle
+Capacitación destinada a funcionarios, agentes de terreno, profesionales educativos y miembros de ONG´s involucrados en la recepción e integración de migrantes provenientes de los países del Cercano Oriente. El objetivo es lograr que los destinatarios manejen aspectos sociales y culturales de los migrantes para diseñar estrategias de integración.
+##### Metodología
+La propuesta contempla dos modalidades de trabajo alternativas: una modalidad extensiva y una modalidad intensiva. La metodología de trabajo consiste en reuniones teórico-prácticas en la que se discutirán los tópicos propuestos en cada módulo. Se contempla el recurso de material audiovisual y bibliografía pertinente. Módulo 1: Historia y Geopolítica del Cercano Oriente. Módulo 2: Sociedad y Cultura.
+
+---
+
+##### Detalle
+Capacitación destinada a Organizaciones No Gubernamentales, Universidades, Asociaciones Civiles y todo interesado en los estudios y problemáticas asociadas al territorio, la población, las movilidades y el desarrollo, tanto en sentido general como aplicado a estudios de caso específicos (en ámbitos urbanos y/o rurales), a distintas escalas de análisis: barrial, municipal, provincial, regional, metropolitano, nacional etc.
+##### Metodología
+Capacitación presencial y/o virtual. Consta de módulos técnicos entre los que pueden encontrarse: uso y análisis de fuentes censales, construcción y análisis de indicadores sociales, elaboración de cartografía y SIG, técnicas cualitativas. Se entrega material bibliográfico seleccionado de acuerdo a la temática solicitada por el contratante, que puede incluir: geodemografía, geografía urbana, cartografía social, planificación territorial, paisajes, etc. Cuenta con una instancia de evaluación.
