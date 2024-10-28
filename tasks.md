@@ -55,7 +55,7 @@
 * [x] Sección `Autoridades`
 * [x] Sección `Repositorio digital`
 * [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
-* [ ] Formulario Dr. Bórmida & Libretas
+* [x] Formulario Dr. Bórmida & Libretas
 	* [x] formulario original source code --> look 4! CognitoForms
 
 
