@@ -46,7 +46,7 @@
 * [x] Novedades section updated
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
-* [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
+* [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro CDN
 #### Hecho
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
@@ -64,7 +64,7 @@
 #### Autoridades
 * [ ] added final `&nbsp;`
 #### Libros digitalizados
-* [ ] Digital collections
+* [x] Digital collections
 	* [X] Informes de investigación (PREP) (navigation fixed)
 	* [x] Praehistoria (navigation fixed)
 	* [x] Geodemos (updated) (navigation fixed)
