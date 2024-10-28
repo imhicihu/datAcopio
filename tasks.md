@@ -14,7 +14,6 @@
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
 * [x] added `Proyectos`
-* [ ] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
 * [x] Verificar si `Biblioteca` va en el menú superior
 * [x] Google Analytics procedure (option enabled?)
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
@@ -48,7 +47,7 @@
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
 * [ ] Cargar los pdfs (superiores a 3 Mb) a otro CDN
-
+#### Hecho
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
 * [ ] ~~`Papers`~~ o `Publicaciones` 
@@ -59,7 +58,7 @@
 * [x] Sección `Objetivos`
 * [x] Sección `Autoridades`
 * [x] Sección `Repositorio digital`
-
+* [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
 
 
 #### Autoridades
