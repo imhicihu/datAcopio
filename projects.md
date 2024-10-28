@@ -264,3 +264,16 @@ El objetivo general se dirige a efectuar un estudio morfológico, técnico, comp
 
 ---
 
+
+
+##### Detalle
+Actividades de recopilación y análisis dirigidas a predecir y evaluar las consecuencias sobre el patrimonio arqueológico en la ejecución de obras de distinta índole. Esta información resulta de gran importancia para prevenir o corregir el daño que pudiera sufrir el patrimonio arqueológico a partir de la remoción de suelos o la circulación de individuos, vehículos y/o maquinaria. Capacitación de personal.
+##### Metodología
+Estos propósitos contemplan el relevamiento bibliográfico, la recopilación en terreno de la información necesaria por un equipo de profesionales y la elaboración de un informe final. Descripción del área de planificación de actividades y zona aledaña, previa a su afectación. Identificación y valoración de los impactos que puedan producirse. Identificación de medidas de mitigación para minimizar los impactos negativos. Elaboración de planes de manejo y monitoreo.
+
+---
+
+##### Detalle
+Los sistemas de indicadores territoriales constituyen paquetes de indicadores estadísticos referidos a un territorio y desagregados en unidades menores. Cada indicador puede ser volcado en un mapa y analizado individualmente, pero a la vez los indicadores se pueden cruzar estableciendo asociaciones con distintos niveles de complejidad que van desde las bivariadas a las multivariadas.
+##### Metodología
+La metodología utilizada se engloba genéricamente en el denominado análisis espacial. Parte del diseño conceptual del sistema, la posterior recolección y o producción de la información, su tratamiento geoestadístico y luego su geo-referenciamiento, a los efectos de transformarla en un sistema de información geográfica (SIG). Más allá de esta etapa tecnológica, la metodología incluye todos los pasos del método científico, comenzando con la observación en el terreno, la descripción de los indicadores y su distribución territorial, la explicación e interpretación de las asociaciones entre indicadores, la síntesis y la prospección. La actualización permanente de los indicadores en una suerte de monitoreo lleva a la utilización de distintas herramientas para el análisis de series temporales, las que en su conjunto implican todo un análisis diacrónico.
