@@ -22,11 +22,7 @@
 * [x] Se agregó `Publicaciones`
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
 * [x] se agregó enlace a [Youtube](https://www.youtube.com/channel/UCleOQ9K84jLampvAqjZsTJQ?view_as=subscriber)
-* [ ] add link to `GitHub`
-* [ ] add link to `Sketchfab`
-* [ ] add link to `Vimeo`
-* [ ] add link to `Onshape`
-* [ ] add link to `LinkedIn`
+
 * [ ] link to `RSS` feed
 * [ ] add `Updated on DD/MM/YEAR` on Noticias / News
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
@@ -59,6 +55,8 @@
 * [x] Sección `Autoridades`
 * [x] Sección `Repositorio digital`
 * [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
+* [ ] Formulario Dr. Bórmida & Libretas
+	* [x] formulario original source code --> look 4! CognitoForms
 
 
 #### Autoridades
@@ -92,5 +90,8 @@
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] Actualizar foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
-* [x] Formulario Dr. Bórmida & Libretas
-	* [x] formulario original source code --> look 4! CognitoForms
+* [ ] add link to `GitHub`
+* [ ] add link to `Sketchfab`
+* [ ] add link to `Vimeo`
+* [ ] add link to `Onshape`
+* [ ] add link to `LinkedIn`
