@@ -46,9 +46,9 @@
 #### Hecho
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
-* [ ] ~~`Papers`~~ o `Publicaciones` 
+* [x] ~~`Papers`~~ o `Publicaciones` 
 * [x] `Seminarios` updated (21-oct)
-* [ ] `Papers` updated
+* [x] `Papers` updated
 * [x] `Seminarios` updated
 * [x] Sección `Historia`
 * [x] Sección `Objetivos`
