@@ -62,7 +62,7 @@
 
 
 #### Autoridades
-* [ ] added final `&nbsp;`
+* [x] added final `&nbsp;`
 #### Libros digitalizados
 * [x] Digital collections
 	* [X] Informes de investigación (PREP) (navigation fixed)
