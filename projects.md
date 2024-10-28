@@ -298,3 +298,22 @@ La propuesta contempla dos modalidades de trabajo alternativas: una modalidad ex
 Capacitación destinada a Organizaciones No Gubernamentales, Universidades, Asociaciones Civiles y todo interesado en los estudios y problemáticas asociadas al territorio, la población, las movilidades y el desarrollo, tanto en sentido general como aplicado a estudios de caso específicos (en ámbitos urbanos y/o rurales), a distintas escalas de análisis: barrial, municipal, provincial, regional, metropolitano, nacional etc.
 ##### Metodología
 Capacitación presencial y/o virtual. Consta de módulos técnicos entre los que pueden encontrarse: uso y análisis de fuentes censales, construcción y análisis de indicadores sociales, elaboración de cartografía y SIG, técnicas cualitativas. Se entrega material bibliográfico seleccionado de acuerdo a la temática solicitada por el contratante, que puede incluir: geodemografía, geografía urbana, cartografía social, planificación territorial, paisajes, etc. Cuenta con una instancia de evaluación.
+
+---
+
+##### Detalle
+Dirigida a instituciones culturales y educativas, museos, ONGs y organismos nacionales e internacionales que requieren asesoría sobre patrimonio tangible e intangible anterior al Siglo XIX. Puede incluir, de manera no excluyente, identificación del material, catalogación, investigación sobre elementos previamente no identificados, verificación de datación, preparación para publicación y comunicación de resultados, estimación y puesta en valor de un objeto histórico-cultural.
+##### Metodología
+Dependiendo del material a analizar, que puede incluir obras de arte y arquitectura, manuscritos, incunables, post-incunables e impresos anteriores al siglo XIX, se utilizan diversas modalidades como la identificación in situ y la investigación ad hoc. Según la naturaleza de la intervención solicitada se aplican diferentes prácticas que involucran técnicas de investigación bibliográfica, paleográfica, codicógica, papirológica y de análisis de materiales.
+
+---
+
+##### Detalle
+Se ofrece asesoramiento técnico/académico sobre cómo entablar y desarrollar diálogos y relaciones interculturales entre Pueblos Originarios e instituciones académicas y científicas, organismos estatales y organizaciones civiles. Se incluye el asesoramiento sobre cómo realizar el proceso de consulta y participación estipulado en el Derecho Indígena, sobre gestión y puesta en valor de patrimonio arqueológico y restitución de restos humanos indígenas.
+##### Metodología
+En base a la información obtenida en una entrevista con el solicitante sobre al vínculo que se busca entablar y el proyecto que se intenta desarrollar, se realiza una evaluación de la situación y se ofrece un asesoramiento académico informado por conocimiento antropológico, etnográfico y arqueológico sobre los mejores cursos de acción a desarrollar. Este asesoramiento es plasmado en un informe técnico sobre cómo desarrollar un proyecto en vinculación intercultural.
+
+---
+
+
+
