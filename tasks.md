@@ -51,7 +51,7 @@
 * [x] Sección `Autoridades`
 * [x] Sección `Repositorio digital`
 * [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
-* [x] Formulario Dr. Bórmida & Libretas
+* [x] Formulario Dr. Bórmida & Libretas (updated)
 	* [x] formulario original source code --> look 4! CognitoForms
 * [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] Verificar si `Biblioteca` va en el menú superior
