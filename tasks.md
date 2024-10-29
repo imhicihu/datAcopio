@@ -57,6 +57,7 @@
 * [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] Verificar si `Biblioteca` va en el menú superior
 * [x] enlaces permanentes --> acortados
+* [x] Compartir calendario ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
 
 #### Autoridades
 * [x] added final `&nbsp;`
@@ -75,7 +76,6 @@
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
 * [ ] Links to share (Facebook & X) do not work
 * [ ] Formulario de contacto no envía el mensaje al correo electrónico de la secretaría del instituto
-* [ ] Compartir calendario no funciona -> https://imhicihu.conicet.gov.ar/calendario/
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
 * [x] ~~falta~~ favicon de la página general
 * [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
