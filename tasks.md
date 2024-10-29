@@ -17,7 +17,6 @@
 
 * [x] Google Analytics procedure (option enabled?)
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
-* [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [x] Se agregó `Publicaciones`
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
 * [x] se agregó enlace a [Youtube](https://www.youtube.com/channel/UCleOQ9K84jLampvAqjZsTJQ?view_as=subscriber)
@@ -26,7 +25,6 @@
 * [ ] add `Updated on DD/MM/YEAR` on Noticias / News
 * [ ] Al final de **cada** página poner `Actualizado: DD/MM/AÑO`
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
-* [ ] para crear thumbnails de los videos, utilizar esta [herramienta](https://parcel.io/tools/video-thumbnail)
 * [ ] Política de privacidad / __cookies treatment__
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
@@ -97,3 +95,4 @@
 * [ ] add link to `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Micrositios: ¿Dila & La Argentina en mapas?
+* [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
