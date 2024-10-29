@@ -14,7 +14,7 @@
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
 * [x] added `Proyectos`
-* [x] Verificar si `Biblioteca` va en el menú superior
+
 * [x] Google Analytics procedure (option enabled?)
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
@@ -55,6 +55,7 @@
 * [x] Formulario Dr. Bórmida & Libretas
 	* [x] formulario original source code --> look 4! CognitoForms
 * [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
+* [x] Verificar si `Biblioteca` va en el menú superior
 
 #### Autoridades
 * [x] added final `&nbsp;`
