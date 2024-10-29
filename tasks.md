@@ -18,7 +18,6 @@
 * [x] Google Analytics procedure (option enabled?)
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
-* [ ] Micrositios: ¿Dila & La Argentina en mapas
 * [x] Se agregó `Publicaciones`
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
 * [x] se agregó enlace a [Youtube](https://www.youtube.com/channel/UCleOQ9K84jLampvAqjZsTJQ?view_as=subscriber)
@@ -95,3 +94,4 @@
 * [ ] add link to `Onshape`
 * [ ] add link to `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
+* [ ] Micrositios: ¿Dila & La Argentina en mapas?
