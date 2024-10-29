@@ -56,6 +56,7 @@
 * [x] Verificar si `Biblioteca` va en el menú superior
 * [x] enlaces permanentes --> acortados
 * [x] Compartir calendario ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
+* [x] Micrositios: ¿Dila & La Argentina en mapas? Added to internal links --> fixed!
 
 #### Autoridades
 * [x] added final `&nbsp;`
@@ -94,5 +95,4 @@
 * [ ] add link to `Onshape`
 * [ ] add link to `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
-* [ ] Micrositios: ¿Dila & La Argentina en mapas?
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
