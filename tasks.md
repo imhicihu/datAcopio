@@ -55,6 +55,7 @@
 	* [x] formulario original source code --> look 4! CognitoForms
 * [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] Verificar si `Biblioteca` va en el menú superior
+* [x] enlaces permanentes --> acortados
 
 #### Autoridades
 * [x] added final `&nbsp;`
