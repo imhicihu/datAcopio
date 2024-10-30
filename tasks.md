@@ -4,14 +4,13 @@
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 
-* [ ] Política de privacidad / __cookies treatment__
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
 * [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales
 * [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 * [x] 404 pages (every fail goes directly to `Home` section
-* [x] Updated digital collections section
+
 * [x] Novedades section updated
 * [ ] Sección Enlaces?
 * [x] se quitó `Noticias` del `main header`
@@ -25,13 +24,21 @@
 * [x] `Seminarios` actualizado
 * [x] `Papers` actualizado
 * [x] `Seminarios` actualizado
+* [x] Novedades section updated
 * [x] Sección `Historia` actualizado
 * [x] Sección `Objetivos` actualizado
 * [x] Sección `Autoridades` actualizado
 * [x] Sección `Repositorio digital` actualizado
+* [ ] * [x] Updated digital collections section
 * [x] Sección `Convenios` actualizado
 * [x] added `Tesis doctorales` actualizado
 * [x] added `Tesis doctorales`
+* [x] Sección `Colección digital`
+	* [X] Informes de investigación (PREP) (navigation fixed)
+	* [x] Praehistoria (navigation fixed)
+	* [x] Geodemos (updated) (navigation fixed)
+	* [x] REE (navigation fixed)
+	* [x] Temas Medievales (navigation fixed)
 * [x] menú `Institucional` actualizado
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Líneas de investigación` a `Areas de investigación`
@@ -42,8 +49,8 @@
 * [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] ~~Verificar si `Biblioteca` va en el menú superior~~
 * [x] enlaces permanentes --> acortados
-* [x] Sharing via Facebook & X ~~do not work~~: fixed! 
-* [x] Compartir calendario ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
+* [x] Compartir via `Facebook` & `X` ~~do not work~~: fixed! 
+* [x] Compartir `Calendario` ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
 * [x] Micrositios: ¿Dila & La Argentina en mapas? Added to `Antropología y Linguistica` ~~internal links~~ --> fixed!
 * [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
 * [x] Se agregó texto al menú `Contacto`
@@ -55,12 +62,7 @@
 * [x] se agregó enlace a [Youtube](https://www.youtube.com/channel/UCleOQ9K84jLampvAqjZsTJQ?view_as=subscriber)
 * [x] sección `Autoridades` added final `&nbsp;`
 * [x] ~~Borrar u ocultar todas las `Entradas` originales~~ 
-* [x] Digital collections
-	* [X] Informes de investigación (PREP) (navigation fixed)
-	* [x] Praehistoria (navigation fixed)
-	* [x] Geodemos (updated) (navigation fixed)
-	* [x] REE (navigation fixed)
-	* [x] Temas Medievales (navigation fixed)
+
        
 #### Misceláneas
 * [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
@@ -79,7 +81,7 @@
 * [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
 
 #### Por hacer
-* [ ] Política de privacidad
+* [ ] Política de privacidad / __cookies treatment__
 * [ ] *Impressum*
 * [ ] *Colophon*
 * [ ] *Changelog* (registro de cambios)
