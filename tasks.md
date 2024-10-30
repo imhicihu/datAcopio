@@ -13,7 +13,6 @@
 * [ ] link to `RSS` feed
 * [ ] add `Updated on DD/MM/YEAR` on Noticias / News
 * [ ] Al final de **cada** página poner `Actualizado: DD/MM/AÑO`
-* [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [ ] Política de privacidad / __cookies treatment__
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
@@ -28,6 +27,7 @@
 * [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro CDN
 
 #### Hecho
+* [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
 * [x] ~~`Papers`~~ o `Publicaciones` 
@@ -40,7 +40,7 @@
 * [x] Sección `Repositorio digital`
 * [x] Sección `Convenios`
 * [x] added `Tesis doctorales`
-* [x] added `Tesis`
+* [x] added `Tesis doctorales`
 * [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
 * [x] Formulario Dr. Bórmida & Libretas (updated)\ table formatting to 64px --> applied
 	* [x] formulario original source code --> look 4! CognitoForms
@@ -50,7 +50,6 @@
 * [x] Compartir calendario ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
 * [x] Micrositios: ¿Dila & La Argentina en mapas? Added to `Antropología y Linguistica` ~~internal links~~ --> fixed!
 * [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
-
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
 * [x] added `Proyectos`
@@ -58,11 +57,7 @@
 * [x] Se agregó `Publicaciones`
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
 * [x] se agregó enlace a [Youtube](https://www.youtube.com/channel/UCleOQ9K84jLampvAqjZsTJQ?view_as=subscriber)
-
-
-
-#### Autoridades
-* [x] added final `&nbsp;`
+* [x] sección `Autoridades` added final `&nbsp;`
 #### Libros digitalizados
 * [x] Digital collections
 	* [X] Informes de investigación (PREP) (navigation fixed)
