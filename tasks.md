@@ -3,10 +3,7 @@
 * [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
-* [x] Actualizar menú `Institucional`
-* [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
-* [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Líneas de investigación` a `Areas de investigación`
-* [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Proyectos` a `Proyectos vigentes`
+
 * [x] ~~Borrar u ocultar todas las `Entradas`~~ 
 
 
@@ -30,17 +27,21 @@
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
-* [x] ~~`Papers`~~ o `Publicaciones` 
-* [x] `Seminarios` updated (21-oct)
-* [x] `Papers` updated
-* [x] `Seminarios` updated
-* [x] Sección `Historia`
-* [x] Sección `Objetivos`
-* [x] Sección `Autoridades`
-* [x] Sección `Repositorio digital`
-* [x] Sección `Convenios`
+* [x] Renombrar ~~`Papers`~~ a `Publicaciones` 
+* [x] `Seminarios` actualizado
+* [x] `Papers` actualizado
+* [x] `Seminarios` actualizado
+* [x] Sección `Historia` actualizado
+* [x] Sección `Objetivos` actualizado
+* [x] Sección `Autoridades` actualizado
+* [x] Sección `Repositorio digital` actualizado
+* [x] Sección `Convenios` actualizado
+* [x] added `Tesis doctorales` actualizado
 * [x] added `Tesis doctorales`
-* [x] added `Tesis doctorales`
+* [x] menú `Institucional` actualizado
+* [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
+* [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Líneas de investigación` a `Areas de investigación`
+* [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Proyectos` a `Proyectos vigentes`
 * [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
 * [x] Formulario Dr. Bórmida & Libretas (updated)\ table formatting to 64px --> applied
 	* [x] formulario original source code --> look 4! CognitoForms
