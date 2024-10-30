@@ -1,27 +1,11 @@
-### Tasks
-
-
-
-* [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
-
-* [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
-
-* [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales
-
-* [x] 404 pages (every fail goes directly to `Home` section
-
-
-
-* [x] se quitó `Noticias` del `main header`
-* [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro CDN
-
-#### Hecho
+### Hecho
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
 * [x] Renombrar ~~`Papers`~~ a `Publicaciones` 
 * [x] `Seminarios` actualizado
 * [x] `Papers` actualizado
+* [x] se quitó `Noticias` del `main header`
 * [x] `Seminarios` actualizado
 * [x] Novedades section updated
 * [x] Sección `Historia` actualizado
@@ -38,6 +22,7 @@
 	* [x] Geodemos (updated) (navigation fixed)
 	* [x] REE (navigation fixed)
 	* [x] Temas Medievales (navigation fixed)
+* [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales 
 * [x] menú `Institucional` actualizado
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Líneas de investigación` a `Areas de investigación`
@@ -66,14 +51,14 @@
 * [x] ~~Sección Enlaces?~~
 
        
-#### Misceláneas
+### Misceláneas
 * [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
 * [ ] [carbon footprint](https://www.websitecarbon.com/)
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 * [x] **Header**: 7 botones (default)
 
-#### Errores
+### Errores
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
 * [ ] Formulario de contacto no envía el mensaje al correo electrónico de la secretaría del instituto
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
@@ -84,10 +69,11 @@
 * [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 
-#### Por hacer
+### Por hacer
 * [ ] Política de privacidad / __cookies treatment__
+* [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro CDN
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
-* [ ] *Impressum*
+* [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] *Colophon*
 * [ ] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
