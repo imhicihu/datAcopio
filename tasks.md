@@ -10,8 +10,8 @@
 * [x] ~~Borrar u ocultar todas las `Entradas`~~ 
 
 
-* [ ] link to `RSS` feed
-* [ ] add `Updated on DD/MM/YEAR` on Noticias / News
+
+
 * [ ] Al final de **cada** página poner `Actualizado: DD/MM/AÑO`
 * [ ] Política de privacidad / __cookies treatment__
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
@@ -80,7 +80,7 @@
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
 * [x] ~~falta~~ favicon de la página general
 * [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
-* [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/
+* [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/ (ahora puesta en modo privado)
 * [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
 
 #### Por hacer
@@ -99,3 +99,5 @@
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Google Analytics procedure (option enabled?)
+* [ ] link to `RSS` feed
+* [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
