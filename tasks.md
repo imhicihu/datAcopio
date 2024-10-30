@@ -1,7 +1,7 @@
 ### Tasks
 
-* [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
-* [ ] imagen principal: 1920 x 1080 px
+
+
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
@@ -11,8 +11,8 @@
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 * [x] 404 pages (every fail goes directly to `Home` section
 
-* [x] Novedades section updated
-* [ ] Sección Enlaces?
+
+
 * [x] se quitó `Noticias` del `main header`
 * [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro CDN
 
@@ -29,7 +29,7 @@
 * [x] Sección `Objetivos` actualizado
 * [x] Sección `Autoridades` actualizado
 * [x] Sección `Repositorio digital` actualizado
-* [ ] * [x] Updated digital collections section
+* [x] Updated digital collections section
 * [x] Sección `Convenios` actualizado
 * [x] added `Tesis doctorales` actualizado
 * [x] added `Tesis doctorales`
@@ -45,7 +45,7 @@
 * [x] El sub-elemento del menú superior `Líneas de investigación` se cambió de `Proyectos` a `Proyectos vigentes`
 * [x] Últimas incorporaciones del Repositorio Institucional. Ingresar el NÚMERO de la colección correspondiente del listado: https://ri.conicet.gov.ar/community-list --> https://ri.conicet.gov.ar/handle/11336/458/discover
 * [x] Formulario Dr. Bórmida & Libretas (updated)\ table formatting to 64px --> applied
-	* [x] formulario original source code --> look 4! CognitoForms
+	* [x] formulario original source code --> look 4! CognitoForms --> fixed
 * [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] ~~Verificar si `Biblioteca` va en el menú superior~~
 * [x] enlaces permanentes --> acortados
@@ -61,7 +61,10 @@
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
 * [x] se agregó enlace a [Youtube](https://www.youtube.com/channel/UCleOQ9K84jLampvAqjZsTJQ?view_as=subscriber)
 * [x] sección `Autoridades` added final `&nbsp;`
-* [x] ~~Borrar u ocultar todas las `Entradas` originales~~ 
+* [x] ~~Borrar u ocultar todas las `Entradas` originales~~
+* [x] imagen principal: 1920 x 1080 px
+* [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
+* [x] ~~Sección Enlaces?~~
 
        
 #### Misceláneas
