@@ -3,8 +3,6 @@
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 * [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [ ] imagen principal: 1920 x 1080 px
-* [ ] **Header**: 7 botones (default)
-* [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 * [x] Actualizar menú `Institucional`
 * [x] Menú superior `Investigación` se cambió a `Líneas de investigación`
@@ -14,8 +12,6 @@
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
 * [x] added `Proyectos`
-
-* [x] Google Analytics procedure (option enabled?)
 * [x] Se agregaron y situaron  `Digital Collections`, `Articles` y `Library` en el menú `Inglés`
 * [x] Se agregó `Publicaciones`
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
@@ -58,6 +54,10 @@
 * [x] enlaces permanentes --> acortados
 * [x] Compartir calendario ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
 * [x] Micrositios: ¿Dila & La Argentina en mapas? Added to internal links --> fixed!
+* [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
+* [ ] * [ ] **Header**: 7 botones (default)
+
+
 
 #### Autoridades
 * [x] added final `&nbsp;`
@@ -97,3 +97,4 @@
 * [ ] add link to `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
+* [ ] Google Analytics procedure (option enabled?)
