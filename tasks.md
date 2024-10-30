@@ -1,6 +1,5 @@
 ### Tasks
-* [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
-* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+
 * [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
@@ -51,7 +50,7 @@
 * [x] Compartir calendario ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
 * [x] Micrositios: ¿Dila & La Argentina en mapas? Added to `Antropología y Linguistica` ~~internal links~~ --> fixed!
 * [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
-* [x] **Header**: 7 botones (default)
+
 * [x] Se agregó texto al menú `Contacto`
 * [x] Se agregó texto al menú `Contact`
 * [x] added `Proyectos`
@@ -71,9 +70,13 @@
 	* [x] Geodemos (updated) (navigation fixed)
 	* [x] REE (navigation fixed)
 	* [x] Temas Medievales (navigation fixed)
+       
 #### Misceláneas
-* [ ] word counter -> timer
+* [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
 * [ ] [carbon footprint](https://www.websitecarbon.com/)
+* [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
+* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+* [x] **Header**: 7 botones (default)
 
 #### Errores
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
