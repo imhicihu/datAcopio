@@ -4,12 +4,6 @@
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 
-
-
-
-
-
-* [ ] Al final de **cada** página poner `Actualizado: DD/MM/AÑO`
 * [ ] Política de privacidad / __cookies treatment__
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
