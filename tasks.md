@@ -5,10 +5,9 @@
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
-* [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
+
 * [x] Agregado [Repositorio institucional](https://ri.conicet.gov.ar/handle/11336/458/discover) a redes sociales
-* [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
-* [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
+
 * [x] 404 pages (every fail goes directly to `Home` section
 
 
@@ -82,9 +81,12 @@
 * [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
 * [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/ (ahora puesta en modo privado)
 * [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
+* [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
+* [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 
 #### Por hacer
 * [ ] Política de privacidad / __cookies treatment__
+* [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
 * [ ] *Impressum*
 * [ ] *Colophon*
 * [ ] *Changelog* (registro de cambios)
