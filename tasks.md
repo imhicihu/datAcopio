@@ -4,7 +4,7 @@
 * [ ] imagen principal: 1920 x 1080 px
 * [ ] eliminar, luego añadir y luego actualizar  imágenes de la [biblioteca de medios](https://imhicihu.conicet.gov.ar/wp-admin/upload.php)
 
-* [x] ~~Borrar u ocultar todas las `Entradas`~~ 
+
 
 
 
@@ -48,6 +48,7 @@
 * [x] All previous digital collections (pdfs) must link to [this repository](https://github.com/imhicihu/IMHICIHU-Digital-Repository/blob/master/digital_assets.md) up to now
 * [x] ~~Verificar si `Biblioteca` va en el menú superior~~
 * [x] enlaces permanentes --> acortados
+* [x] Sharing via Facebook & X ~~do not work~~: fixed! 
 * [x] Compartir calendario ~~no~~ funciona -> https://imhicihu.conicet.gov.ar/calendario/ --> fixed!
 * [x] Micrositios: ¿Dila & La Argentina en mapas? Added to `Antropología y Linguistica` ~~internal links~~ --> fixed!
 * [x] para la sección `SEO` hace falta `Descripción breve del sitio` (320 caracteres)
@@ -59,7 +60,7 @@
 * [x] Se renombró `Líneas de investigación` a `Líneas de conocimiento`
 * [x] se agregó enlace a [Youtube](https://www.youtube.com/channel/UCleOQ9K84jLampvAqjZsTJQ?view_as=subscriber)
 * [x] sección `Autoridades` added final `&nbsp;`
-#### Libros digitalizados
+* [x] ~~Borrar u ocultar todas las `Entradas` originales~~ 
 * [x] Digital collections
 	* [X] Informes de investigación (PREP) (navigation fixed)
 	* [x] Praehistoria (navigation fixed)
@@ -76,7 +77,6 @@
 
 #### Errores
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
-* [ ] Links to share (Facebook & X) do not work
 * [ ] Formulario de contacto no envía el mensaje al correo electrónico de la secretaría del instituto
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
 * [x] ~~falta~~ favicon de la página general
