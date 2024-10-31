@@ -80,6 +80,7 @@
 * [ ] *Colophon*
 * [ ] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
+* [ ] falta actualizar `Convenios`
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
 * [ ] add link to `GitHub`
