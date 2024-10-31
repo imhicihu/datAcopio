@@ -1,5 +1,6 @@
 <details>
 <summary>Hecho</summary>
+
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
@@ -50,6 +51,7 @@
 * [x] imagen principal: 1920 x 1080 px
 * [x] `404 error page` --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [x] ~~Sección Enlaces?~~
+
 </details>
        
 
