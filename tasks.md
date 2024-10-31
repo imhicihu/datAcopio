@@ -89,7 +89,7 @@
 * [ ] add link to `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
-* [ ] Google Analytics procedure (option enabled?)
+* [x] Google Analytics procedure (option enabled?)
 * [ ] link to `RSS` feed
 * [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
 
