@@ -74,13 +74,13 @@
 <summary>Por hacer</summary>
 
 * [ ] Política de privacidad / __cookies treatment__
-* [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro CDN
+* [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro CDN o ¿dejarlo en el repositorio que tenemos?
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] *Colophon*
 * [ ] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
-* [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en Creative Commons o bajo copyright?
+* [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
 * [ ] add link to `GitHub`
 * [ ] add link to `Sketchfab`
