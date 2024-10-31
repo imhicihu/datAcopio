@@ -47,7 +47,7 @@
 * [x] sección `Autoridades` added final `&nbsp;`
 * [x] ~~Borrar u ocultar todas las `Entradas` originales~~
 * [x] imagen principal: 1920 x 1080 px
-* [ ] 404 error page --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
+* [x] `404 error page` --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [x] ~~Sección Enlaces?~~
 
        
