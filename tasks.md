@@ -1,4 +1,5 @@
-### Hecho
+<details>
+<summary>Hecho</summary>
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [x] Geodemos section uploaded
 * [x] sitemap generator (obfuscated!)
@@ -49,14 +50,9 @@
 * [x] imagen principal: 1920 x 1080 px
 * [x] `404 error page` --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [x] ~~Sección Enlaces?~~
-
+</details>
        
-### Misceláneas
-* [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
-* [ ] [carbon footprint](https://www.websitecarbon.com/)
-* [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
-* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
-* [x] **Header**: 7 botones (default)
+
 
 ### Errores
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
@@ -89,3 +85,10 @@
 * [ ] Google Analytics procedure (option enabled?)
 * [ ] link to `RSS` feed
 * [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
+
+### Misceláneas
+* [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
+* [ ] [carbon footprint](https://www.websitecarbon.com/)
+* [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
+* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+* [x] **Header**: 7 botones (default)
