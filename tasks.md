@@ -93,6 +93,7 @@
 * [x] Google Analytics procedure (option enabled?)
 * [ ] link to `RSS` feed
 * [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
+* [ ] sitemap workflow (via [mermaid.js](https://mermaid-js.github.io/mermaid-live-editor/edit))
 
 </details>
 
