@@ -2,8 +2,8 @@
 <summary>Hecho</summary>
 
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
-* [x] Geodemos section uploaded
-* [x] sitemap generator (obfuscated!)
+* [x] `Geodemos` section uploaded
+* [x] ~~sitemap generated (obfuscated!)~~
 * [x] Renombrar ~~`Papers`~~ a `Publicaciones` 
 * [x] `Seminarios` actualizado
 * [x] `Papers` actualizado
