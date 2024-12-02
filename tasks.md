@@ -82,11 +82,11 @@
 * [ ] falta actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
-* [ ] add link to `GitHub`
-* [ ] add link to `Sketchfab`
-* [ ] add link to `Vimeo`
-* [ ] add link to `Onshape`
-* [ ] add link to `LinkedIn`
+* [ ] ~~agregar enlace a `GitHub`~~
+* [ ] ~~agregar enlace a `Sketchfab`~~
+* [ ] ~~agregar enlace a `Vimeo`~~
+* [ ] ~~agregar enlace a `Onshape`~~
+* [ ] agregar enlace a `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [x] Google Analytics procedure (option enabled?)
