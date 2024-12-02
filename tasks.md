@@ -76,6 +76,7 @@
 * [ ] Cargar/subir los pdfs (superiores a 3 Mb) a otro [CDN](https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_contenidos) o ¿dejarlos en el repositorio que tenemos?
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
+* [ ] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
 * [ ] *Colophon*
 * [ ] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
