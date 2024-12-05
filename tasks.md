@@ -17,7 +17,7 @@
 * [x] Updated digital collections section
 * [x] Sección `Convenios` actualizado
 * [x] added `Tesis doctorales` actualizado with brand new text
-* [x] added `Tesis doctorales`
+* [x] added `Tesis doctorales`. Updated with brand new link
 * [x] Sección `Colección digital`
 	* [X] Informes de investigación (PREP) (navigation fixed)
 	* [x] Praehistoria (navigation fixed)
