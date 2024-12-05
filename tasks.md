@@ -16,7 +16,7 @@
 * [x] Sección `Repositorio digital` actualizado
 * [x] Updated digital collections section
 * [x] Sección `Convenios` actualizado
-* [x] added `Tesis doctorales` actualizado
+* [x] added `Tesis doctorales` actualizado with brand new text
 * [x] added `Tesis doctorales`
 * [x] Sección `Colección digital`
 	* [X] Informes de investigación (PREP) (navigation fixed)
