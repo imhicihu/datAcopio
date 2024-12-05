@@ -11,6 +11,7 @@
 * [x] `Seminarios` actualizado
 * [x] Novedades section updated
 * [x] Sección `Historia` actualizado
+* [x] Sección `Publicaciones` actualizado
 * [x] Sección `Objetivos` actualizado
 * [x] Sección `Autoridades` actualizado
 * [x] Sección `Repositorio digital` actualizado
