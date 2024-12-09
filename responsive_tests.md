@@ -34,14 +34,14 @@
 <details>
 <summary> → vista desde el navegador de internet en una macbook</summary>
 
-![macbook](images/responsive_tests/publicaciones-full/MacBook Pro-1733515213806.jpeg)
+![macbook](images/responsive_tests/publicaciones-full/MacBook%20Pro-1733515213806.jpeg)
 
 </details>
 
 <details>
 <summary> → vista desde el navegador de internet en un dispositivo Samsung Galaxy S20</summary>
 
-![Samsung](images/responsive_tests/publicaciones-full/Samsung Galaxy S20 Ultra-1733515214015.jpeg)
+![Samsung](images/responsive_tests/publicaciones-full/Samsung%20Galaxy%20S20%20Ultra-1733515214015.jpeg)
 
 </details>
 
