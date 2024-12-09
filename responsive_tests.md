@@ -3,6 +3,7 @@
 
 <details>
 <summary> → vista desde el navegador de internet en una macbook</summary>
+
 ![macbook](images/responsive_tests/publicaciones-solo/MacBook%20Pro-1733510259469.jpeg)
 
 </details>
@@ -15,11 +16,13 @@
 </details>
 
 <details>
-<summary> → vista desde el navegador de internet en un iPad
+<summary> → vista desde el navegador de internet en un iPad</summary>
 ![iPad](images/responsive_tests/publicaciones-solo/iPad-1733510259520.jpeg)
 
 </details>
 
- → vista desde una laptop con pantalla de alta definición
- ![laptop](images/responsive_tests/publicaciones-solo/laptopWithHiDPIScreen-1733510259466.jpeg)
+<details>
+<summary> → vista desde una laptop con pantalla de alta definición</summary>
+![laptop](images/responsive_tests/publicaciones-solo/laptopWithHiDPIScreen-1733510259466.jpeg)
+
 </details>
