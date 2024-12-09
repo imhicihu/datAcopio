@@ -28,3 +28,34 @@
 ![laptop](images/responsive_tests/publicaciones-solo/laptopWithHiDPIScreen-1733510259466.jpeg)
 
 </details>
+
+#### Sin epígrafes
+
+<details>
+<summary> → vista desde el navegador de internet en una macbook</summary>
+
+![macbook](images/responsive_tests/publicaciones-full/MacBook Pro-1733515213806.jpeg)
+
+</details>
+
+<details>
+<summary> → vista desde el navegador de internet en un dispositivo Samsung Galaxy S20</summary>
+
+![Samsung](images/responsive_tests/publicaciones-full/Samsung Galaxy S20 Ultra-1733515214015.jpeg)
+
+</details>
+
+<details>
+<summary> → vista desde el navegador de internet en un iPad</summary>
+
+![iPad](images/responsive_tests/publicaciones-full/iPad-1733515214014.jpeg)
+
+</details>
+
+<details>
+<summary> → vista desde una laptop con pantalla de alta definición</summary>
+
+![laptop](images/responsive_tests/publicaciones-full/laptopWithHiDPIScreen-1733515213919.jpeg)
+
+</details>
+
