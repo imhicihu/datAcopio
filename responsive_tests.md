@@ -2,7 +2,8 @@
 #### Con epígrafes
 <details>
 <summary> → vista desde el navegador de internet en una macbook</summary>
-![macbook](images/responsive_tests/publicaciones-solo/MacBook%20Pro-1733510259469.jpeg)
+	
+	![macbook](images/responsive_tests/publicaciones-solo/MacBook%20Pro-1733510259469.jpeg)
 </details>
 <details>
 <summary> → vista desde el navegador de internet en un dispositivo Samsung Galaxy S20</summary>
