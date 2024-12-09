@@ -17,12 +17,14 @@
 
 <details>
 <summary> → vista desde el navegador de internet en un iPad</summary>
+
 ![iPad](images/responsive_tests/publicaciones-solo/iPad-1733510259520.jpeg)
 
 </details>
 
 <details>
 <summary> → vista desde una laptop con pantalla de alta definición</summary>
+
 ![laptop](images/responsive_tests/publicaciones-solo/laptopWithHiDPIScreen-1733510259466.jpeg)
 
 </details>
