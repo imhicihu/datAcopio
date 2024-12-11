@@ -52,6 +52,7 @@
 * [x] `404 error page` --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [x] ~~Sección Enlaces?~~
 * [x] fixed title KARKHĀ De BĒTH Se LŌKH
+* [x] falta el pdf original del artículo [El discurso político en la Edad Media](https://www.imhicihu-conicet.gob.ar/el-discurso-politico-en-la-edad-media/)
 
 </details>
        
@@ -69,7 +70,7 @@
 * [ ] ![screenshot.png](images/thread-42348320-2658272684652131568.png) [Youtube solución](https://support.google.com/youtube/thread/42348320/no-se-visualiza-un-video-de-mi-canal-cuando-lo-inserto-en-otra-web?hl=es) y aquí otra [opción para habilitar en otros sitios](https://www.youtube.com/watch?v=IquMUhRPM1A&ab_channel=WajxaquibBatz)
 * [ ] ![screenshot.png](images/Screenshot_2024-09-13_at_13.53.02.png)
 * [ ] falta finalizar el último párrafo (no presente en el sitio original) en https://www.imhicihu-conicet.gob.ar/interrelaciones-e-identidades-culturales-en-el-cercano-oriente-antiguo/
-* [ ] falta el pdf original del artículo [El discurso político en la Edad Media](https://www.imhicihu-conicet.gob.ar/el-discurso-politico-en-la-edad-media/)
+
 
 </details>
 
