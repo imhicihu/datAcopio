@@ -82,7 +82,7 @@
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
 * [ ] *Colophon*
-* [ ] *Changelog* (registro de cambios)
+* [x] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
 * [ ] falta actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
