@@ -51,6 +51,7 @@
 * [x] imagen principal: 1920 x 1080 px
 * [x] `404 error page` --> 404 `Page Not Found` // Si pongo una URL incorrecta me redirige a la página principal
 * [x] ~~Sección Enlaces?~~
+* [x] renamed https://imhicihu.conicet.gov.ar/publicaciones/ to https://imhicihu.conicet.gov.ar/publicaciones-v2/
 * [x] fixed title KARKHĀ De BĒTH Se LŌKH
 * [x] falta el pdf original del artículo [El discurso político en la Edad Media](https://www.imhicihu-conicet.gob.ar/el-discurso-politico-en-la-edad-media/)
 
