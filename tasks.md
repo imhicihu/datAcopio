@@ -103,6 +103,7 @@
 * [x] agregar `Changelog`
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/sociedad-y-memoria-en-la-edad-media-estudios-en-homenaje-a-nilda-guglielmi/
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
+* [ ] cambiar a `https://imhicihu.conicet.gov.ar/` en el [canal de YouTube](https://www.youtube.com/@IMHICIHUOnline)
 
 </details>
 
