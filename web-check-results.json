@@ -1,0 +1,1390 @@
+{
+  "location": {
+    "city": "Buenos Aires",
+    "region": "Buenos Aires F.D.",
+    "country": "Argentina",
+    "postCode": "",
+    "regionCode": "C",
+    "countryCode": "AR",
+    "coords": {
+      "latitude": -34.61315,
+      "longitude": -58.37723
+    },
+    "isp": "CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFICAS Y TECNICAS CONICET",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "languages": "es-AR,en,it,de,fr,gn",
+    "currencyCode": "ARS",
+    "currency": "Peso",
+    "countryDomain": ".ar",
+    "countryAreaSize": 2766890,
+    "countryPopulation": 44494502
+  },
+  "ssl": {
+    "subject": {
+      "C": "AR",
+      "ST": "Ciudad Autónoma de Buenos Aires",
+      "O": "Consejo Nacional de Investigaciones Cientificas y Tecnicas",
+      "CN": "*.conicet.gov.ar"
+    },
+    "issuer": {
+      "C": "GB",
+      "ST": "Greater Manchester",
+      "L": "Salford",
+      "O": "Sectigo Limited",
+      "CN": "Sectigo RSA Organization Validation Secure Server CA"
+    },
+    "subjectaltname": "DNS:*.conicet.gov.ar, DNS:conicet.gov.ar",
+    "infoAccess": {
+      "CA Issuers - URI": [
+        "http://crt.sectigo.com/SectigoRSAOrganizationValidationSecureServerCA.crt"
+      ],
+      "OCSP - URI": [
+        "http://ocsp.sectigo.com"
+      ]
+    },
+    "ca": false,
+    "modulus": "C5EE05BFBB8DE490BD029135A606532AD98D16B9049751D0930EBBFCB640893E67FBAD0757C9465404497DC12401548B1E0862591FAAB6463D3A10A844F60875BF3B406070EE260B9FE67F27FDAA9E620984A0B147A0613E5E19E4EA3F5CCAAA81F8FD4AA7CF7D8E5FAE06EEBCC8EAEBE76E0B359E18C290A0364D962110A07670B986152F2EA27663A8A90A3AD5BCD76D0D76FA4BEC65AAC8CBEAE13837955D0F5C5C05BD40BC81D80EEB604EC7966CB254D27BE20867F6F66FA0C84C710A75956A285D72FA520D25F4FE19242C8FF3C4B0953D1B35154CDB3CA942E6E90B65E9993A672557B81ABADD833510250FCF280EAD31DDF1162ACEA6F99DF9368F17",
+    "bits": 2048,
+    "exponent": "0x10001",
+    "pubkey": {
+      "type": "Buffer",
+      "data": [
+        48,
+        130,
+        1,
+        34,
+        48,
+        13,
+        6,
+        9,
+        42,
+        134,
+        72,
+        134,
+        247,
+        13,
+        1,
+        1,
+        1,
+        5,
+        0,
+        3,
+        130,
+        1,
+        15,
+        0,
+        48,
+        130,
+        1,
+        10,
+        2,
+        130,
+        1,
+        1,
+        0,
+        197,
+        238,
+        5,
+        191,
+        187,
+        141,
+        228,
+        144,
+        189,
+        2,
+        145,
+        53,
+        166,
+        6,
+        83,
+        42,
+        217,
+        141,
+        22,
+        185,
+        4,
+        151,
+        81,
+        208,
+        147,
+        14,
+        187,
+        252,
+        182,
+        64,
+        137,
+        62,
+        103,
+        251,
+        173,
+        7,
+        87,
+        201,
+        70,
+        84,
+        4,
+        73,
+        125,
+        193,
+        36,
+        1,
+        84,
+        139,
+        30,
+        8,
+        98,
+        89,
+        31,
+        170,
+        182,
+        70,
+        61,
+        58,
+        16,
+        168,
+        68,
+        246,
+        8,
+        117,
+        191,
+        59,
+        64,
+        96,
+        112,
+        238,
+        38,
+        11,
+        159,
+        230,
+        127,
+        39,
+        253,
+        170,
+        158,
+        98,
+        9,
+        132,
+        160,
+        177,
+        71,
+        160,
+        97,
+        62,
+        94,
+        25,
+        228,
+        234,
+        63,
+        92,
+        202,
+        170,
+        129,
+        248,
+        253,
+        74,
+        167,
+        207,
+        125,
+        142,
+        95,
+        174,
+        6,
+        238,
+        188,
+        200,
+        234,
+        235,
+        231,
+        110,
+        11,
+        53,
+        158,
+        24,
+        194,
+        144,
+        160,
+        54,
+        77,
+        150,
+        33,
+        16,
+        160,
+        118,
+        112,
+        185,
+        134,
+        21,
+        47,
+        46,
+        162,
+        118,
+        99,
+        168,
+        169,
+        10,
+        58,
+        213,
+        188,
+        215,
+        109,
+        13,
+        118,
+        250,
+        75,
+        236,
+        101,
+        170,
+        200,
+        203,
+        234,
+        225,
+        56,
+        55,
+        149,
+        93,
+        15,
+        92,
+        92,
+        5,
+        189,
+        64,
+        188,
+        129,
+        216,
+        14,
+        235,
+        96,
+        78,
+        199,
+        150,
+        108,
+        178,
+        84,
+        210,
+        123,
+        226,
+        8,
+        103,
+        246,
+        246,
+        111,
+        160,
+        200,
+        76,
+        113,
+        10,
+        117,
+        149,
+        106,
+        40,
+        93,
+        114,
+        250,
+        82,
+        13,
+        37,
+        244,
+        254,
+        25,
+        36,
+        44,
+        143,
+        243,
+        196,
+        176,
+        149,
+        61,
+        27,
+        53,
+        21,
+        76,
+        219,
+        60,
+        169,
+        66,
+        230,
+        233,
+        11,
+        101,
+        233,
+        153,
+        58,
+        103,
+        37,
+        87,
+        184,
+        26,
+        186,
+        221,
+        131,
+        53,
+        16,
+        37,
+        15,
+        207,
+        40,
+        14,
+        173,
+        49,
+        221,
+        241,
+        22,
+        42,
+        206,
+        166,
+        249,
+        157,
+        249,
+        54,
+        143,
+        23,
+        2,
+        3,
+        1,
+        0,
+        1
+      ]
+    },
+    "valid_from": "Sep  4 00:00:00 2024 GMT",
+    "valid_to": "Oct  5 23:59:59 2025 GMT",
+    "fingerprint": "A9:69:0B:D1:08:65:AF:51:A0:1C:75:A8:D6:D4:D0:5C:18:22:2B:EC",
+    "fingerprint256": "E0:2F:29:6F:60:DB:71:73:D6:02:E9:E9:E5:57:BF:DA:91:B2:41:3A:C7:A9:35:AE:0D:FD:E1:BF:E9:95:E1:7F",
+    "fingerprint512": "63:E5:71:08:59:AF:B7:10:2F:D3:04:F0:E4:BF:23:0F:3A:80:FC:1F:78:8F:EF:86:09:0E:91:30:7A:0B:6B:CC:EC:50:BB:96:41:A1:EF:FA:A4:BB:9D:27:20:FA:D8:F4:0D:63:3D:93:A6:31:EF:F6:29:B4:8F:7F:4A:31:F6:08",
+    "ext_key_usage": [
+      "1.3.6.1.5.5.7.3.1",
+      "1.3.6.1.5.5.7.3.2"
+    ],
+    "serialNumber": "B56896DD619CF43348DDE8B367A9B495"
+  },
+  "domain": {
+    "internicData": {
+      "error": "No matches found for domain in internic database"
+    },
+    "whoisData": null
+  },
+  "server-info": {
+    "org": "CONSEJO NACIONAL DE INVESTIGACIONES CIENTÍFICAS Y TÉCNICAS (CONICET)",
+    "asn": "AS265884",
+    "isp": "CONSEJO NACIONAL DE INVESTIGACIONES CIENTÍFICAS Y TÉCNICAS (CONICET)",
+    "os": null,
+    "ip": "45.71.5.46",
+    "ports": "80,8010,443",
+    "loc": "Buenos Aires, Argentina",
+    "type": ""
+  },
+  "cookies": {
+    "headerCookies": [
+      "PHPSESSID=qa12kgsbiq8tvntjdmoi6au02c; path=/"
+    ],
+    "clientCookies": null
+  },
+  "headers": {
+    "server": "nginx",
+    "date": "Mon, 13 Jan 2025 21:05:47 GMT",
+    "content-type": "text/html; charset=UTF-8",
+    "vary": "Accept-Encoding",
+    "set-cookie": [
+      "PHPSESSID=qa12kgsbiq8tvntjdmoi6au02c; path=/"
+    ],
+    "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "pragma": "no-cache",
+    "link": "<https://imhicihu.conicet.gov.ar/wp-json/>; rel=\"https://api.w.org/\"",
+    "php-cache": "MISS",
+    "x-varnish": "86255213 84897089",
+    "age": "0",
+    "via": "1.1 varnish-v4",
+    "transfer-encoding": "chunked",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=16000000"
+  },
+  "dns": {
+    "A": {
+      "address": "45.71.5.46",
+      "family": 4
+    },
+    "AAAA": [
+      "45.71.5.46"
+    ],
+    "MX": [],
+    "TXT": [],
+    "NS": [],
+    "CNAME": [],
+    "SOA": [
+      "multisitios.conicet.gov.ar"
+    ],
+    "SRV": [],
+    "PTR": []
+  },
+  "hosts": {
+    "domains": [
+      "conicet.gov.ar"
+    ],
+    "hostnames": [
+      "conicet.gov.ar"
+    ]
+  },
+  "http-security": {
+    "strictTransportPolicy": true,
+    "xFrameOptions": false,
+    "xContentTypeOptions": false,
+    "xXSSProtection": false,
+    "contentSecurityPolicy": false
+  },
+  "social-tags": {
+    "title": "IMHICIHU | Instituto Multidisciplinario de Historia y Ciencias Hu",
+    "description": "La Unidad tiene una conformación especial, amalgamando y, a la vez, dando autonomía a sus distintas partes. Actualmente, las áreas de investigación se conforman por las de Arqueología y Prehistoria, Historia Antigua y Medieval e Investigaciones Geográficas.",
+    "keywords": "IMHICIHU, antropología, geografía, medievalismo, arqueología,",
+    "ogTitle": "IMHICIHU",
+    "ogType": "article",
+    "ogImage": "https://imhicihu.conicet.gov.ar/wp-content/uploads/sites/238/img_principal/El-Atlas-Catalán-de-Abraham-Cresques.jpg",
+    "ogUrl": "https://imhicihu.conicet.gov.ar",
+    "ogDescription": "La Unidad tiene una conformación especial, amalgamando y, a la vez, dando autonomía a sus distintas partes. Actualmente, las áreas de investigación se conforman por las de Arqueología y Prehistoria, Historia Antigua y Medieval e Investigaciones Geográficas.",
+    "twitterCard": "summary",
+    "twitterSite": "@CONICETDialoga",
+    "twitterCreator": "@CONICETDialoga",
+    "twitterTitle": "IMHICIHU",
+    "twitterDescription": "La Unidad tiene una conformación especial, amalgamando y, a la vez, dando autonomía a sus distintas partes. Actualmente, las áreas de investigación se conforman por las de Arqueología y Prehistor",
+    "twitterImage": "https://imhicihu.conicet.gov.ar/wp-content/uploads/sites/238/img_principal/El-Atlas-Catalán-de-Abraham-Cresques.jpg",
+    "themeColor": "#0695d6",
+    "robots": "noindex, nofollow",
+    "generator": "WordPress 6.3.1",
+    "viewport": "width=device-width"
+  },
+  "security-txt": {
+    "isPresent": false
+  },
+  "dns-server": {
+    "domain": "imhicihu.conicet.gov.ar",
+    "dns": [
+      {
+        "address": "45.71.5.46",
+        "hostname": null,
+        "dohDirectSupports": false
+      }
+    ]
+  },
+  "firewall": {
+    "hasWaf": false
+  },
+  "dnssec": {
+    "DNSKEY": {
+      "isFound": false,
+      "answer": null,
+      "response": {
+        "Status": 3,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "https://imhicihu.conicet.gov.ar.",
+            "type": 48
+          }
+        ],
+        "Authority": [
+          {
+            "name": "conicet.gov.ar.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "ns3.conicet.gov.ar. administrator.conicet.gov.ar. 2024111401 86400 7200 2419200 172800"
+          }
+        ],
+        "Comment": "Response from 45.71.5.56."
+      }
+    },
+    "DS": {
+      "isFound": false,
+      "answer": null,
+      "response": {
+        "Status": 3,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "https://imhicihu.conicet.gov.ar.",
+            "type": 43
+          }
+        ],
+        "Authority": [
+          {
+            "name": "conicet.gov.ar.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "ns3.conicet.gov.ar. administrator.conicet.gov.ar. 2024111401 86400 7200 2419200 172800"
+          }
+        ],
+        "Comment": "Response from 45.71.5.57."
+      }
+    },
+    "RRSIG": {
+      "isFound": false,
+      "answer": null,
+      "response": {
+        "Status": 3,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "https://imhicihu.conicet.gov.ar.",
+            "type": 46
+          }
+        ],
+        "Authority": [
+          {
+            "name": "conicet.gov.ar.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "ns3.conicet.gov.ar. administrator.conicet.gov.ar. 2024111401 86400 7200 2419200 172800"
+          }
+        ],
+        "Comment": "Response from 45.71.5.57."
+      }
+    }
+  },
+  "hsts": {
+    "message": "HSTS header does not include all subdomains.",
+    "compatible": false,
+    "hstsHeader": null
+  },
+  "threats": {
+    "urlHaus": {
+      "query_status": "no_results"
+    },
+    "phishTank": {
+      "url0": {
+        "url": "https://imhicihu.conicet.gov.ar",
+        "in_database": "false"
+      }
+    },
+    "cloudmersive": {
+      "error": "Request to Cloudmersive failed: Request failed with status code 401"
+    },
+    "safeBrowsing": {
+      "unsafe": false
+    }
+  },
+  "mail-config": {
+    "mxRecords": [],
+    "txtRecords": [],
+    "mailServices": []
+  },
+  "tls-cipher-suites": "{\"id\":60862038,\"timestamp\":\"2025-01-13T21:05:46.166858Z\",\"target\":\"imhicihu.conicet.gov.ar\",\"replay\":-1,\"has_tls\":false,\"cert_id\":-1,\"trust_id\":-1,\"is_valid\":false,\"completion_perc\":0,\"connection_info\":{\"scanIP\":\"\",\"serverside\":false,\"ciphersuite\":null,\"curvesFallback\":false},\"ack\":true,\"attempts\":1,\"analysis_params\":{}}",
+  "tls-security-config": "{\"id\":60862038,\"timestamp\":\"2025-01-13T21:05:46.166858Z\",\"target\":\"imhicihu.conicet.gov.ar\",\"replay\":-1,\"has_tls\":false,\"cert_id\":-1,\"trust_id\":-1,\"is_valid\":false,\"completion_perc\":0,\"connection_info\":{\"scanIP\":\"\",\"serverside\":false,\"ciphersuite\":null,\"curvesFallback\":false},\"ack\":true,\"attempts\":1,\"analysis_params\":{}}",
+  "tls-client-support": "{\"id\":60862038,\"timestamp\":\"2025-01-13T21:05:46.166858Z\",\"target\":\"imhicihu.conicet.gov.ar\",\"replay\":-1,\"has_tls\":false,\"cert_id\":-1,\"trust_id\":-1,\"is_valid\":false,\"completion_perc\":0,\"connection_info\":{\"scanIP\":\"\",\"serverside\":false,\"ciphersuite\":null,\"curvesFallback\":false},\"ack\":true,\"attempts\":1,\"analysis_params\":{}}",
+  "redirects": {
+    "redirects": [
+      "https://imhicihu.conicet.gov.ar"
+    ]
+  },
+  "linked-pages": {
+    "internal": [
+      "https://imhicihu.conicet.gov.ar/#",
+      "https://imhicihu.conicet.gov.ar/calendario/",
+      "https://imhicihu.conicet.gov.ar/historia/",
+      "https://imhicihu.conicet.gov.ar/mision/",
+      "https://imhicihu.conicet.gov.ar/objetivos/",
+      "https://imhicihu.conicet.gov.ar/autoridades/",
+      "https://imhicihu.conicet.gov.ar/investigadores/",
+      "https://imhicihu.conicet.gov.ar/becarios/",
+      "https://imhicihu.conicet.gov.ar/personal-de-apoyo/",
+      "https://imhicihu.conicet.gov.ar/administrativos/",
+      "https://imhicihu.conicet.gov.ar/areas-de-conocimiento/",
+      "https://imhicihu.conicet.gov.ar/proyectosvigentes/",
+      "https://imhicihu.conicet.gov.ar/proyectosfinalizados/",
+      "https://imhicihu.conicet.gov.ar/publicaciones/",
+      "https://imhicihu.conicet.gov.ar/seminarios/",
+      "https://imhicihu.conicet.gov.ar/colecciones-digitales/",
+      "https://imhicihu.conicet.gov.ar/repositorio-digital/",
+      "https://imhicihu.conicet.gov.ar/tesis-doctorales/",
+      "https://imhicihu.conicet.gov.ar/biblioteca/",
+      "https://imhicihu.conicet.gov.ar/convenios/",
+      "https://imhicihu.conicet.gov.ar/asesorias-autorizadas/",
+      "https://imhicihu.conicet.gov.ar/servicios-autorizados/",
+      "https://imhicihu.conicet.gov.ar/contacto/",
+      "https://imhicihu.conicet.gov.ar/",
+      "https://imhicihu.conicet.gov.ar/migracionesyconurbano/",
+      "https://imhicihu.conicet.gov.ar/arealinguisticayantropologia/",
+      "https://imhicihu.conicet.gov.ar/martiriodegubralaha/",
+      "https://imhicihu.conicet.gov.ar/dialogosreligion/",
+      "https://imhicihu.conicet.gov.ar/categoria/noticias/",
+      "https://imhicihu.conicet.gov.ar/lineas-de-investigacion/"
+    ],
+    "external": [
+      "https://si.conicet.gov.ar/",
+      "https://ri.conicet.gov.ar/handle/11336/458/discover",
+      "https://www.youtube.com/watch?v=ndbDOidnAGA&ab",
+      "https://www.youtube.com/watch?v=ZNlWB04TOiI",
+      "https://www.youtube.com/watch?v=kUuFrhln0e0&t=3s",
+      "https://www.youtube.com/watch?v=uHV3Ju_OKd4",
+      "https://convocatorias.conicet.gov.ar/",
+      "http://ri.conicet.gov.ar/",
+      "https://cifras.conicet.gov.ar/publica/",
+      "https://www.conicet.gov.ar/area-de-politicas-de-genero-y-diversidades/",
+      "https://www.facebook.com/Conicet.Imhicihu/",
+      "https://twitter.com/imhicihu",
+      "https://conicet-ar.academia.edu/Departments/IMHICIHU",
+      "https://www.youtube.com/@IMHICIHUOnline",
+      "https://creativecommons.org/licenses/by/2.5/ar/",
+      "https://www.argentina.gob.ar/anticorrupcion/obsequiosyviajes",
+      "https://si.conicet.gov.ar/verificador/index.htm",
+      "https://www.conicet.gov.ar/"
+    ]
+  },
+  "robots-txt": {
+    "robots": [
+      {
+        "lbl": "User-agent",
+        "val": "*"
+      },
+      {
+        "lbl": "Disallow",
+        "val": "/wp-admin/"
+      },
+      {
+        "lbl": "Disallow",
+        "val": "/wp-content/plugins/"
+      },
+      {
+        "lbl": "Disallow",
+        "val": "/wp-admin/admin-ajax.php"
+      },
+      {
+        "lbl": "Disallow",
+        "val": "/wp-login.php"
+      },
+      {
+        "lbl": "Disallow",
+        "val": "/*/feed"
+      },
+      {
+        "lbl": "Allow",
+        "val": "/wp-content/uploads/"
+      },
+      {
+        "lbl": "User-agent",
+        "val": "Twitterbot"
+      },
+      {
+        "lbl": "Disallow",
+        "val": "*"
+      },
+      {
+        "lbl": "Allow",
+        "val": "/wp-content/uploads/*"
+      }
+    ]
+  },
+  "ports": {
+    "openPorts": [
+      80,
+      443
+    ],
+    "failedPorts": [
+      20,
+      21,
+      22,
+      23,
+      25,
+      53,
+      67,
+      68,
+      69,
+      110,
+      119,
+      123,
+      143,
+      156,
+      161,
+      162,
+      179,
+      194,
+      389,
+      587,
+      993,
+      995,
+      3000,
+      3306,
+      3389,
+      5060,
+      5900,
+      8000,
+      8080,
+      8888
+    ]
+  },
+  "txt-records": {},
+  "block-lists": {
+    "blocklists": [
+      {
+        "server": "AdGuard",
+        "serverIp": "176.103.130.130",
+        "isBlocked": false
+      },
+      {
+        "server": "AdGuard Family",
+        "serverIp": "176.103.130.132",
+        "isBlocked": false
+      },
+      {
+        "server": "CleanBrowsing Adult",
+        "serverIp": "185.228.168.10",
+        "isBlocked": false
+      },
+      {
+        "server": "CleanBrowsing Family",
+        "serverIp": "185.228.168.168",
+        "isBlocked": false
+      },
+      {
+        "server": "CleanBrowsing Security",
+        "serverIp": "185.228.168.9",
+        "isBlocked": false
+      },
+      {
+        "server": "CloudFlare",
+        "serverIp": "1.1.1.1",
+        "isBlocked": false
+      },
+      {
+        "server": "CloudFlare Family",
+        "serverIp": "1.1.1.3",
+        "isBlocked": false
+      },
+      {
+        "server": "Comodo Secure",
+        "serverIp": "8.26.56.26",
+        "isBlocked": false
+      },
+      {
+        "server": "Google DNS",
+        "serverIp": "8.8.8.8",
+        "isBlocked": false
+      },
+      {
+        "server": "Neustar Family",
+        "serverIp": "156.154.70.3",
+        "isBlocked": false
+      },
+      {
+        "server": "Neustar Protection",
+        "serverIp": "156.154.70.2",
+        "isBlocked": false
+      },
+      {
+        "server": "Norton Family",
+        "serverIp": "199.85.126.20",
+        "isBlocked": false
+      },
+      {
+        "server": "OpenDNS",
+        "serverIp": "208.67.222.222",
+        "isBlocked": false
+      },
+      {
+        "server": "OpenDNS Family",
+        "serverIp": "208.67.222.123",
+        "isBlocked": false
+      },
+      {
+        "server": "Quad9",
+        "serverIp": "9.9.9.9",
+        "isBlocked": false
+      },
+      {
+        "server": "Yandex Family",
+        "serverIp": "77.88.8.7",
+        "isBlocked": false
+      },
+      {
+        "server": "Yandex Safe",
+        "serverIp": "77.88.8.88",
+        "isBlocked": false
+      }
+    ]
+  },
+  "features": {
+    "first": 1033542000,
+    "last": 1736755200,
+    "domain": "conicet.gov.ar",
+    "groups": [
+      {
+        "name": "javascript",
+        "live": 74,
+        "dead": 53,
+        "latest": 1736409600,
+        "oldest": 1222930800,
+        "categories": [
+          {
+            "live": 18,
+            "dead": 9,
+            "latest": 1736409600,
+            "oldest": 1320584400,
+            "name": "jquery-plugin"
+          },
+          {
+            "live": 3,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1478646000,
+            "name": "animation"
+          },
+          {
+            "live": 6,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1349359200,
+            "name": "ui"
+          },
+          {
+            "live": 5,
+            "dead": 0,
+            "latest": 1734422400,
+            "oldest": 1349359200,
+            "name": "compatibility"
+          },
+          {
+            "live": 5,
+            "dead": 1,
+            "latest": 1736409600,
+            "oldest": 1254380400,
+            "name": "javascript-library"
+          },
+          {
+            "live": 4,
+            "dead": 3,
+            "latest": 1734508800,
+            "oldest": 1320584400,
+            "name": "slider"
+          },
+          {
+            "live": 2,
+            "dead": 2,
+            "latest": 1736323200,
+            "oldest": 1597705200,
+            "name": "framework"
+          },
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1736150400,
+            "oldest": 1591052400,
+            "name": "charting"
+          }
+        ]
+      },
+      {
+        "name": "framework",
+        "live": 13,
+        "dead": 9,
+        "latest": 1736409600,
+        "oldest": 952070400,
+        "categories": [
+          {
+            "live": 5,
+            "dead": 3,
+            "latest": 1733817600,
+            "oldest": 1540767600,
+            "name": "wordpress-theme"
+          },
+          {
+            "live": 3,
+            "dead": 1,
+            "latest": 1734336000,
+            "oldest": 1570834800,
+            "name": "schema"
+          }
+        ]
+      },
+      {
+        "name": "widgets",
+        "live": 74,
+        "dead": 28,
+        "latest": 1736409600,
+        "oldest": 1349359200,
+        "categories": [
+          {
+            "live": 35,
+            "dead": 16,
+            "latest": 1736409600,
+            "oldest": 1540767600,
+            "name": "wordpress-plugins"
+          },
+          {
+            "live": 1,
+            "dead": 1,
+            "latest": 1734336000,
+            "oldest": 1440630000,
+            "name": "bookmarking"
+          },
+          {
+            "live": 1,
+            "dead": 1,
+            "latest": 1734336000,
+            "oldest": 1440630000,
+            "name": "social-sharing"
+          },
+          {
+            "live": 1,
+            "dead": 2,
+            "latest": 1729494000,
+            "oldest": 1475305200,
+            "name": "login"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1521586800,
+            "name": "tag-management"
+          },
+          {
+            "live": 1,
+            "dead": 2,
+            "latest": 1736409600,
+            "oldest": 1628060400,
+            "name": "privacy-compliance"
+          },
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1649401200,
+            "name": "fonts"
+          },
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1736150400,
+            "oldest": 1713855600,
+            "name": "captcha"
+          },
+          {
+            "live": 2,
+            "dead": 1,
+            "latest": 1734422400,
+            "oldest": 1653289200,
+            "name": "feedback-forms-and-surveys"
+          },
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1627196400,
+            "name": "site-search"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1690354800,
+            "oldest": 1684998000,
+            "name": "bookings"
+          },
+          {
+            "live": 3,
+            "dead": 0,
+            "latest": 1733817600,
+            "oldest": 1643443200,
+            "name": "translation"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1685775600,
+            "oldest": 1588806000,
+            "name": "content-modification"
+          },
+          {
+            "live": 1,
+            "dead": 1,
+            "latest": 1733817600,
+            "oldest": 1667113200,
+            "name": "live-chat"
+          },
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1726210800,
+            "oldest": 1726210800,
+            "name": "image-provider"
+          }
+        ]
+      },
+      {
+        "name": "payment",
+        "live": 3,
+        "dead": 1,
+        "latest": 1736150400,
+        "oldest": 1589497200,
+        "categories": [
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736150400,
+            "oldest": 1736150400,
+            "name": "payment-acceptance"
+          },
+          {
+            "live": 2,
+            "dead": 1,
+            "latest": 1736150400,
+            "oldest": 1589497200,
+            "name": "currency"
+          }
+        ]
+      },
+      {
+        "name": "Server",
+        "live": 4,
+        "dead": 6,
+        "latest": 1736409600,
+        "oldest": 1320584400,
+        "categories": []
+      },
+      {
+        "name": "Web Server",
+        "live": 8,
+        "dead": 3,
+        "latest": 1736409600,
+        "oldest": 1320584400,
+        "categories": [
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1574290800,
+            "name": "varnish-server"
+          }
+        ]
+      },
+      {
+        "name": "feeds",
+        "live": 6,
+        "dead": 0,
+        "latest": 1736409600,
+        "oldest": 1254380400,
+        "categories": []
+      },
+      {
+        "name": "cms",
+        "live": 10,
+        "dead": 16,
+        "latest": 1736409600,
+        "oldest": 1320584400,
+        "categories": [
+          {
+            "live": 2,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1349359200,
+            "name": "open-source"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1349359200,
+            "name": "blog"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1432684800,
+            "oldest": 1320584400,
+            "name": "enterprise"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1718521200,
+            "oldest": 1671523200,
+            "name": "wiki"
+          }
+        ]
+      },
+      {
+        "name": "Web Master",
+        "live": 2,
+        "dead": 0,
+        "latest": 1736409600,
+        "oldest": 1320584400,
+        "categories": []
+      },
+      {
+        "name": "analytics",
+        "live": 5,
+        "dead": 6,
+        "latest": 1736409600,
+        "oldest": 1286262000,
+        "categories": [
+          {
+            "live": 1,
+            "dead": 1,
+            "latest": 1736409600,
+            "oldest": 1286262000,
+            "name": "application-performance"
+          },
+          {
+            "live": 1,
+            "dead": 1,
+            "latest": 1736409600,
+            "oldest": 1286262000,
+            "name": "audience-measurement"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1286262000,
+            "name": "visitor-count-tracking"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1730358000,
+            "oldest": 1557097200,
+            "name": "social-management"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1648710000,
+            "oldest": 1591052400,
+            "name": "conversion-optimization"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1648710000,
+            "oldest": 1591052400,
+            "name": "site-optimization"
+          }
+        ]
+      },
+      {
+        "name": "mx",
+        "live": 4,
+        "dead": 0,
+        "latest": 1736409600,
+        "oldest": 1397084400,
+        "categories": [
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1588806000,
+            "name": "dmarc"
+          }
+        ]
+      },
+      {
+        "name": "mobile",
+        "live": 5,
+        "dead": 1,
+        "latest": 1736409600,
+        "oldest": 1357113600,
+        "categories": []
+      },
+      {
+        "name": "ssl",
+        "live": 8,
+        "dead": 2,
+        "latest": 1736409600,
+        "oldest": 1440370800,
+        "categories": [
+          {
+            "live": 1,
+            "dead": 2,
+            "latest": 1736409600,
+            "oldest": 1440370800,
+            "name": "root-authority"
+          }
+        ]
+      },
+      {
+        "name": "cdn",
+        "live": 12,
+        "dead": 2,
+        "latest": 1736150400,
+        "oldest": 1443654000,
+        "categories": []
+      },
+      {
+        "name": "hosting",
+        "live": 2,
+        "dead": 2,
+        "latest": 1736755200,
+        "oldest": 1467327600,
+        "categories": [
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736755200,
+            "oldest": 1730530800,
+            "name": "server-location"
+          }
+        ]
+      },
+      {
+        "name": "ads",
+        "live": 1,
+        "dead": 2,
+        "latest": 1736409600,
+        "oldest": 1480978800,
+        "categories": []
+      },
+      {
+        "name": "language",
+        "live": 8,
+        "dead": 0,
+        "latest": 1736409600,
+        "oldest": 1496358000,
+        "categories": []
+      },
+      {
+        "name": "CDN",
+        "live": 1,
+        "dead": 0,
+        "latest": 1734508800,
+        "oldest": 1519858800,
+        "categories": []
+      },
+      {
+        "name": "shop",
+        "live": 3,
+        "dead": 1,
+        "latest": 1734422400,
+        "oldest": 1523660400,
+        "categories": [
+          {
+            "live": 3,
+            "dead": 0,
+            "latest": 1734422400,
+            "oldest": 1523660400,
+            "name": "non-platform"
+          },
+          {
+            "live": 0,
+            "dead": 1,
+            "latest": 1718521200,
+            "oldest": 1671523200,
+            "name": "open-source"
+          }
+        ]
+      },
+      {
+        "name": "media",
+        "live": 4,
+        "dead": 1,
+        "latest": 1736409600,
+        "oldest": 1543532400,
+        "categories": [
+          {
+            "live": 1,
+            "dead": 1,
+            "latest": 1736409600,
+            "oldest": 1543532400,
+            "name": "live-stream-/-webcast"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1543532400,
+            "name": "online-video-platform"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1736409600,
+            "oldest": 1543532400,
+            "name": "social-video-platform"
+          },
+          {
+            "live": 1,
+            "dead": 0,
+            "latest": 1734422400,
+            "oldest": 1734422400,
+            "name": "video-players"
+          }
+        ]
+      },
+      {
+        "name": "robots",
+        "live": 1,
+        "dead": 1,
+        "latest": 1728889200,
+        "oldest": 1601190000,
+        "categories": []
+      },
+      {
+        "name": "link",
+        "live": 9,
+        "dead": 0,
+        "latest": 1736409600,
+        "oldest": 1357113600,
+        "categories": []
+      },
+      {
+        "name": "ns",
+        "live": 1,
+        "dead": 0,
+        "latest": 1736150400,
+        "oldest": 1726902000,
+        "categories": []
+      },
+      {
+        "name": "mapping",
+        "live": 4,
+        "dead": 3,
+        "latest": 1736323200,
+        "oldest": 1603494000,
+        "categories": [
+          {
+            "live": 2,
+            "dead": 1,
+            "latest": 1736323200,
+            "oldest": 1603494000,
+            "name": "maps"
+          }
+        ]
+      },
+      {
+        "name": "copyright",
+        "live": 0,
+        "dead": 3,
+        "latest": 1649401200,
+        "oldest": 1581030000,
+        "categories": []
+      }
+    ]
+  },
+  "carbon": {
+    "statistics": {
+      "adjustedBytes": 33028.23,
+      "energy": 0.000024915548320859675,
+      "co2": {
+        "grid": {
+          "grams": 0.011012672357819976,
+          "litres": 0.00612524836541947
+        },
+        "renewable": {
+          "grams": 0.009547638116553427,
+          "litres": 0.005310396320427015
+        }
+      }
+    },
+    "cleanerThan": 0.99,
+    "rating": "A+",
+    "green": false,
+    "scanUrl": "https://imhicihu.conicet.gov.ar"
+  }
+}
