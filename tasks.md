@@ -84,11 +84,10 @@
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [ ] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
-* [x] Convenios
 * [ ] *Colophon*
 * [x] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
-* [ ] falta actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
+* [x] falta actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
 * [ ] ~~agregar enlace a `GitHub`~~
