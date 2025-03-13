@@ -83,7 +83,7 @@
 * [ ] [25 años del IMHICIHU](https://imhicihu.conicet.gov.ar/aniversario-imhicihu) _modo borrador_
 * [ ] Lapso de vencimiento de las `Noticias`: ¿30, 60 días?
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
-* [ ] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
+* [x] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
 * [ ] *Colophon*
 * [x] *Changelog* (registro de cambios)
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo
