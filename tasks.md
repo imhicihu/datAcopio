@@ -55,6 +55,7 @@
 * [x] renamed https://imhicihu.conicet.gov.ar/experimental to https://imhicihu.conicet.gov.ar/publicaciones/
 * [x] fixed title KARKHĀ De BĒTH Se LŌKH
 * [x] falta el pdf original del artículo [El discurso político en la Edad Media](https://www.imhicihu-conicet.gob.ar/el-discurso-politico-en-la-edad-media/)
+* [x] All english pages, go to `Private` status
 
 </details>
        
