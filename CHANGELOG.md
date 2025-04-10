@@ -33,3 +33,4 @@
 * Se acortó la URL -a efectos del SEO- en https://imhicihu.conicet.gov.ar/territorios-memoria-e-identidades-actas-de-las-iv-jornadas-multidisciplinarias/ el 26/03/2025 a las 12:55:49
 * Se agregó un captura de este sitio a fines de resguardo el 27/03/2025 a las 15:48:55
 * Se agregó https://imhicihu.conicet.gov.ar/danielsen/ el 28/03/2025 a las 13:26:23
+* Se actualizaron datos en https://imhicihu.conicet.gov.ar/linguistica-y-antropologia/ el 01/04/2025 a las 14:30:24
