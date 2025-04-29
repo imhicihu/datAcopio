@@ -100,7 +100,7 @@
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [x] Google Analytics procedure (option enabled?)
-* [ ] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
+* [x] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
 * [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
 * [ ] sitemap workflow (via [mermaid.js](https://mermaid-js.github.io/mermaid-live-editor/edit))
 * [x] agregar `Changelog`
