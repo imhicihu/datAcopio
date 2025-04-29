@@ -87,7 +87,7 @@
 * [ ] [Impressum](https://help.scantrust.com/hc/es-419/articles/14128256364188--Qu%C3%A9-es-un-Impressum-lo-necesito)
 * [x] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
 * [ ] *Colophon*
-* [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo electrónico para habilitar (ver Instructivo, párrafo textual "Habilitación de servicios de evaluación y métricas del sitio (Google Analytics) observando el comportamiento de las personas usuarias", p. 4 del instructivo)
+* [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo electrónico para habilitar (ver Instructivo, párrafo textual "_Habilitación de servicios de evaluación y métricas del sitio (Google Analytics) observando el comportamiento de las personas usuarias_", p. 4 del instructivo)
 * [x] falta actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
@@ -102,7 +102,6 @@
 * [x] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
 * [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
 * [ ] sitemap workflow (via [mermaid.js](https://mermaid-js.github.io/mermaid-live-editor/edit))
-* [x] agregar `Changelog`
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/sociedad-y-memoria-en-la-edad-media-estudios-en-homenaje-a-nilda-guglielmi/
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
 * [ ] cambiar a `https://imhicihu.conicet.gov.ar/` en el [canal de YouTube](https://www.youtube.com/@IMHICIHUOnline)
