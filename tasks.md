@@ -56,8 +56,8 @@
 * [x] fixed title KARKHĀ De BĒTH Se LŌKH
 * [x] falta el pdf original del artículo [El discurso político en la Edad Media](https://www.imhicihu-conicet.gob.ar/el-discurso-politico-en-la-edad-media/)
 * [x] All english pages, go to `Private` status
-* [x] se agregó un [Registro de cambios (Changelog)](https://imhicihu.conicet.gov.ar/changelog/)
 * [x] Cargar/subir los pdfs (superiores a 3 Mb) a otro [CDN](https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_contenidos) o ¿dejarlos en el repositorio que tenemos?
+* [x] se agregó un [Registro de cambios (Changelog)](https://imhicihu.conicet.gov.ar/changelog/)
 
 </details>
        

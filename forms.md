@@ -1,6 +1,6 @@
 ### Formularios
 
-#### Líneas de investigación
+#### Areas de investigación
 * `Título` (máximo 150 caracteres)
 * `Descripción` (máximo 300 caracteres)
 * `Foto # 1`: (opcional)
