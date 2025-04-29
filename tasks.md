@@ -58,6 +58,7 @@
 * [x] All english pages, go to `Private` status
 * [x] Cargar/subir los pdfs (superiores a 3 Mb) a otro [CDN](https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_contenidos) o ¿dejarlos en el repositorio que tenemos?
 * [x] se agregó un [Registro de cambios (Changelog)](https://imhicihu.conicet.gov.ar/changelog/)
+* [x] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
 
 </details>
        
@@ -98,8 +99,7 @@
 * [ ] agregar enlace a `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
-* [x] Google Analytics procedure (option enabled?)
-* [x] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
+* [ ] Google Analytics procedure (option enabled?)
 * [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
 * [ ] sitemap workflow (via [mermaid.js](https://mermaid-js.github.io/mermaid-live-editor/edit))
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/sociedad-y-memoria-en-la-edad-media-estudios-en-homenaje-a-nilda-guglielmi/
