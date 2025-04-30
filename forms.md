@@ -23,6 +23,8 @@
 #### Proyectos vigentes
 * `Título` (máximo 300 caracteres)
 * `Objetivo(s)`: (máximo 3000 caracteres)
+* `Objetivos específicos`: (máximo 3000 caracteres)
 * `Libros o productos asociados`: (máximo 6000 caracteres)
 * `Director/a`: (máximo 200 caracteres)
-* 
+* `Co-director/a`: (máximo 200 caracteres)
+* `Grupo Responsable`: 
