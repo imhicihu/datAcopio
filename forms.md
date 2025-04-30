@@ -3,13 +3,13 @@
 #### Areas de investigación
 * `Título` (máximo 150 caracteres)
 * `Descripción` (máximo 300 caracteres)
-* `Foto # 1`: (opcional)
+* `Foto # 1`: (_opcional_)
 * `Epígrafe de la foto`: (máximo 80 caracteres)
 * `Copyright`: Creative Commons, MIT, _et alia_
 * `Foto # 2`: (opcional)
 * `Epígrafe de la foto`: (máximo 80 caracteres)
-* `Copyright`: Creative Commons, MIT, _et alia_
-* `Video # 1`: (Dirección URL)
+* `Copyright de la foto`: Creative Commons, MIT, _et alia_
+* `Video # 1`: (Dirección URL) (_opcional_)
 * `Epígrafe del video`: (máximo 80 caracteres)
 * `Copyright`: Creative Commons, MIT, _et alia_
 * 
