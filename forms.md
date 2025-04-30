@@ -1,7 +1,7 @@
 ### Formularios
 
 #### Líneas de investigación
-* `Título` (máximo 150 caracteres)
+* `Título` (máximo 300 caracteres)
 * `Coordinado por`: (máximo 200 caracteres)
 * `Integrantes internos del área`: (máximo 500 caracteres)
 * `Integrantes externos del área`: (máximo 500 caracteres)
@@ -20,4 +20,6 @@
 * `Sitio web`: (máximo 200 caracteres)
 * `Addenda`: (máximo 500 caracteres)
 
-#### 
+#### Proyectos vigentes
+* `Título` (máximo 300 caracteres)
+* `Objetivo(s)`: 
