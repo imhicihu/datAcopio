@@ -1,6 +1,6 @@
 ### Formularios
 
-#### Líneas de investigación
+#### Àreas de investigación
 * `Título` (máximo 300 caracteres)
 * `Coordinado por`: (máximo 200 caracteres)
 * `Integrantes internos del área`: (máximo 500 caracteres)
