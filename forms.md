@@ -24,10 +24,11 @@
 * `Título` (máximo 300 caracteres)
 * `Objetivo(s)`: (máximo 3000 caracteres)
 * `Objetivos específicos`: (máximo 3000 caracteres)
-* `Libros o productos asociados`: (máximo 6000 caracteres)
-* `‌Artículos en revistas científicas y capítulos de libros`: (máximo 6000 caracteres)
+* `Libros o productos asociados`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
+* `‌Artículos en revistas científicas y capítulos de libros`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
 * `Director/a`: (máximo 200 caracteres)
 * `Co-director/a`: (máximo 200 caracteres)
-* `Grupo Responsable: Integrantes`:
+* `Grupo Responsable: Integrantes`: (máximo 1000 caracteres)
 * `Duración`: (máximo 30 caracteres)
-* `Financiado por`: (máximo 200 caracteres)
+* `Financiado por`: (máximo 400 caracteres)
+
