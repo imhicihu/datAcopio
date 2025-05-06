@@ -59,6 +59,7 @@
 * [x] Cargar/subir los pdfs (superiores a 3 Mb) a otro [CDN](https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_contenidos) o ¿dejarlos en el repositorio que tenemos?
 * [x] se agregó un [Registro de cambios (Changelog)](https://imhicihu.conicet.gov.ar/changelog/)
 * [x] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
+* [x] [Micrositio DILA](https://www.caicyt-conicet.gov.ar/micrositios/dila/) transfered to this [URL](https://imhicihu.conicet.gov.ar/micrositio-dila/)
 
 </details>
        
