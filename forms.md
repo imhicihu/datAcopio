@@ -28,7 +28,8 @@
 * `‌Artículos en revistas científicas y capítulos de libros`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
 * `Director/a`: (máximo 200 caracteres)
 * `Co-director/a`: (máximo 200 caracteres)
-* `Grupo Responsable: Integrantes`: (máximo 1000 caracteres)
+* `Grupo Responsable`:
+	- `Integrantes`: (máximo 1000 caracteres)
 * `Duración`: (máximo 30 caracteres)
 * `Financiado por`: (máximo 400 caracteres)
 *  `Foto`: (_opcional_)
@@ -42,5 +43,5 @@
 
 ---
 > [!NOTE]
-> Updated: 07/05/2025 - 16:55:05
+> Updated: 07/05/2025 - 17:04:26
 
