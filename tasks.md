@@ -84,6 +84,17 @@
 
 ---
 <details>
+<summary>Misceláneas</summary>
+
+* [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
+* [ ] [carbon footprint](https://www.websitecarbon.com/)
+* [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
+* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+
+</details>
+
+---
+<details>
 <summary>Por hacer</summary>
 
 * [ ] [25 años del IMHICIHU](https://imhicihu.conicet.gov.ar/aniversario-imhicihu) _modo borrador_
@@ -109,16 +120,5 @@
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
 * [ ] cambiar a `https://imhicihu.conicet.gov.ar/` en el [canal de YouTube](https://www.youtube.com/@IMHICIHUOnline)
 * [ ] [format 2 web accesible](https://www.conicet.gov.ar/web-accesible/)
-
-</details>
-
----
-<details>
-<summary>Misceláneas</summary>
-
-* [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
-* [ ] [carbon footprint](https://www.websitecarbon.com/)
-* [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
-* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 
 </details>
