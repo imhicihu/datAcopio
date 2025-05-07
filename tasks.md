@@ -61,6 +61,7 @@
 * [x] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
 * [x] [Micrositio DILA](https://www.caicyt-conicet.gov.ar/micrositios/dila/) transfered to this [URL](https://imhicihu.conicet.gov.ar/micrositio-dila/)
 * [x] **Header**: 7 botones (default)
+* [x] actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 
 </details>
     
@@ -103,7 +104,6 @@
 * [x] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
 * [ ] *Colophon*
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo electrónico para habilitar (ver Instructivo, párrafo textual "_Habilitación de servicios de evaluación y métricas del sitio (Google Analytics) observando el comportamiento de las personas usuarias_", p. 4 del instructivo)
-* [x] falta actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
 * [ ] ~~agregar enlace a `GitHub`~~
