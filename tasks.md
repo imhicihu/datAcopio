@@ -63,6 +63,7 @@
 * [x] **Header**: 7 botones (default)
 * [x] actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 * [x] ~~add `Updated on DD/MM/YEAR` on Noticias~~
+* [x] ~~falta~~ favicon de la página general
 
 </details>
     
@@ -73,7 +74,6 @@
 * [ ] en [https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) el último enlace [https://www.imhicihu-conicet.gob.ar/conicet/wp-content/uploads/2020/06/DiversidadMigparticipciudad.pdf](https://www.imhicihu-conicet.gob.ar/govdiv-multilevel-governance-of-cultural-diversity-in-a-comparative-perspective-eu-latin-america-2/) no existe
 * [ ] Formulario de contacto no envía el mensaje al correo electrónico de la secretaría del instituto
 * [ ] En [Poncho](https://argob.github.io/poncho/) no existe el icono de `Conicet`
-* [x] ~~falta~~ favicon de la página general
 * [x] ![screenshot.png](images/Screenshot_2024-10-22_at_12.24.31.png)
 * [ ] Inserción de Google Maps no funciona --> https://imhicihu.conicet.gov.ar/geolocalizacion/ (ahora puesta en modo privado)
 * [ ] Habilitar ver en otros sitios los videos institucionales alojados en YouTube -> `El vídeo no está disponible. El propietario del vídeo ha inhabilitado su reproducción en otros sitios web`
@@ -107,10 +107,6 @@
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo electrónico para habilitar (ver Instructivo, párrafo textual "_Habilitación de servicios de evaluación y métricas del sitio (Google Analytics) observando el comportamiento de las personas usuarias_", p. 4 del instructivo)
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
-* [ ] ~~agregar enlace a `GitHub`~~
-* [ ] ~~agregar enlace a `Sketchfab`~~
-* [ ] ~~agregar enlace a `Vimeo`~~
-* [ ] ~~agregar enlace a `Onshape`~~
 * [ ] agregar enlace a `LinkedIn`
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
@@ -120,7 +116,12 @@
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
 * [ ] cambiar a `https://imhicihu.conicet.gov.ar/` en el [canal de YouTube](https://www.youtube.com/@IMHICIHUOnline)
 * [ ] [format 2 web accesible](https://www.conicet.gov.ar/web-accesible/)
+* [ ] ~~agregar enlace a `GitHub`~~
+* [ ] ~~agregar enlace a `Sketchfab`~~
+* [ ] ~~agregar enlace a `Vimeo`~~
+* [ ] ~~agregar enlace a `Onshape`~~
 
 </details>
 
+---
 > Actualizado el 07/05/2025 a las 16:50:12
