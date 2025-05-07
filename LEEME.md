@@ -28,6 +28,6 @@ Datacopio"/>
 
 * Todas las marcas son propiedad de sus respectivos propietarios
 
-### License
+### Licencia
 
 * El contenido de este proyecto está sujeto a la licencia ![MIT](images/MIT-license-green.png)
