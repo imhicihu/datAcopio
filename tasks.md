@@ -63,8 +63,8 @@
 * [x] **Header**: 7 botones (default)
 
 </details>
-       
-
+    
+---
 <details>
 <summary>Errores</summary>
 
@@ -82,6 +82,7 @@
 
 </details>
 
+---
 <details>
 <summary>Por hacer</summary>
 
@@ -111,6 +112,7 @@
 
 </details>
 
+---
 <details>
 <summary>Misceláneas</summary>
 
