@@ -40,6 +40,7 @@
 * `Sitio web del proyecto`: (máximo 200 caracteres)
 * `Addenda`: (máximo 500 caracteres)
 
-
-> Actualizado el 07/05/2025 a las 16:46:06
+---
+> [!NOTE]
+> Updated: 07/05/2025 - 16:55:05
 
