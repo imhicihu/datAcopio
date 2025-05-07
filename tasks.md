@@ -124,4 +124,6 @@
 </details>
 
 ---
-> Actualizado el 07/05/2025 a las 16:50:12
+---
+> [!NOTE]
+> Updated: el 07/05/2025 - 16:58:08
