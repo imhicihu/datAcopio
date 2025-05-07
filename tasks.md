@@ -3,6 +3,7 @@
 
 * [x] Se deshabilitó `Deshabilitar las Noticias locales en la página de inicio (Inglés)`
 * [x] `Geodemos` section uploaded
+* [x] se deshabilitaron todas las páginas en inglés (heredadas)
 * [x] ~~sitemap generated (obfuscated!)~~
 * [x] Renombrar ~~`Papers`~~ a `Publicaciones` 
 * [x] `Seminarios` actualizado
@@ -125,4 +126,4 @@
 
 ---
 > [!NOTE]
-> Updated: el 07/05/2025 - 16:58:08
+> Updated: 07/05/2025 - 18:29:14
