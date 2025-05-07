@@ -11,7 +11,9 @@
 <details>
 <summary> vista desde el navegador de internet en un dispositivo Samsung Galaxy S20</summary>
 
-![Samsung](images/responsive_tests/publicaciones-solo/Samsung%20Galaxy%20Ultra-1733510259470.jpeg)
+![Samsung](images/responsive_tests/publicaciones-solo/Samsung%20Galaxy%20S20%20Ultra-1733510259470.jpeg)
+
+
 
 </details>
 
