@@ -62,6 +62,7 @@
 * [x] [Micrositio DILA](https://www.caicyt-conicet.gov.ar/micrositios/dila/) transfered to this [URL](https://imhicihu.conicet.gov.ar/micrositio-dila/)
 * [x] **Header**: 7 botones (default)
 * [x] actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
+* [x] ~~add `Updated on DD/MM/YEAR` on Noticias~~
 
 </details>
     
@@ -114,7 +115,6 @@
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Google Analytics procedure (option enabled?)
-* [ ] ~~add `Updated on DD/MM/YEAR` on Noticias~~
 * [ ] sitemap workflow (via [mermaid.js](https://mermaid-js.github.io/mermaid-live-editor/edit))
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/sociedad-y-memoria-en-la-edad-media-estudios-en-homenaje-a-nilda-guglielmi/
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
