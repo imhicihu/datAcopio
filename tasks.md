@@ -60,6 +60,7 @@
 * [x] se agregó un [Registro de cambios (Changelog)](https://imhicihu.conicet.gov.ar/changelog/)
 * [x] link to `RSS` feed of website: https://imhicihu.conicet.gov.ar/feed/ (validated)
 * [x] [Micrositio DILA](https://www.caicyt-conicet.gov.ar/micrositios/dila/) transfered to this [URL](https://imhicihu.conicet.gov.ar/micrositio-dila/)
+* [x] **Header**: 7 botones (default)
 
 </details>
        
@@ -117,6 +118,5 @@
 * [ ] [carbon footprint](https://www.websitecarbon.com/)
 * [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
-* [x] **Header**: 7 botones (default)
 
 </details>
