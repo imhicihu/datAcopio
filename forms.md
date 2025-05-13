@@ -16,7 +16,7 @@
 	* `Derechos de autor de la foto`: Creative Commons, MIT, dominio público, _et alia_
 * `Video # 1`: (Dirección URL) (_opcional_)
 	* `Epígrafe del video`: (máximo 80 caracteres)
-	* `Derechos de autor del video`: Creative Commons, MIT, dominio público, _et alia_)
+	* `Derechos de autor del video`: Creative Commons, MIT, dominio público, _et alia_
 * `Sitio web`: (máximo 200 caracteres)
 * `Addenda`: (máximo 500 caracteres)
 
@@ -33,11 +33,11 @@
 * `Duración`: (máximo 30 caracteres)
 * `Financiado por`: (máximo 400 caracteres)
 * `Foto`: (_opcional_)
-* `Epígrafe de la foto`: (máximo 80 caracteres)
-* `Derechos de autor de la foto`: Creative Commons, MIT, dominio público, _et alia_)
+	- `Epígrafe de la foto`: (máximo 80 caracteres)
+	- `Derechos de autor de la foto`: Creative Commons, MIT, dominio público, _et alia_
 * `Video`: (Dirección URL) (_opcional_)
-* `Epígrafe del video`: (máximo 80 caracteres)
-* `Derechos de autor del video`: Creative Commons, MIT, dominio público, _et alia_)
+	- `Epígrafe del video`: (máximo 80 caracteres)
+	- `Derechos de autor del video`: Creative Commons, MIT, dominio público, _et alia_
 * `Sitio web del proyecto`: (máximo 200 caracteres)
 * `Addenda`: (máximo 500 caracteres)
 
