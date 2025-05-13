@@ -32,6 +32,7 @@
 	- `Integrantes`: (máximo 1000 caracteres)
 * `Duración`: (máximo 30 caracteres)
 * `Financiado por`: (máximo 400 caracteres)
+* `Tesis doctorales en curso`: (máximo 900 caracteres)
 * `Foto`: (_opcional_)
 	- `Epígrafe de la foto`: (máximo 80 caracteres)
 	- `Derechos de autor de la foto`: Creative Commons, MIT, dominio público, _et alia_
