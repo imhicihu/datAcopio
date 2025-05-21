@@ -7,4 +7,5 @@
 * [Thumbnails 4 videos](https://parcel.io/tools/video-thumbnail)
 * [ViewPort tester](https://viewport-tester.com/)
 * [Word Counter](https://wordcounter.net/)
+* [Forms accesibility](https://www.accessibility-developer-guide.com/examples/forms/)
 
