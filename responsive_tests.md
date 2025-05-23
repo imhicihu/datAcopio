@@ -62,3 +62,6 @@
 
 </details>
 
+### Pruebas en línea
+
+* [responsivedesignchecker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fimhicihu.conicet.gov.ar%2F&width=1400&height=700)
