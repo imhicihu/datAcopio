@@ -65,6 +65,8 @@
 * [x] actualizar [Convenios](https://imhicihu.conicet.gov.ar/convenios/)
 * [x] ~~add `Updated on DD/MM/YEAR` on Noticias~~
 * [x] ~~falta~~ favicon de la página general
+* [x] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
+* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 
 </details>
     
@@ -91,8 +93,6 @@
 
 * [ ] word counter -> [reading time](https://wordpress.org/plugins/reading-time-wp/)
 * [ ] [carbon footprint](https://www.websitecarbon.com/)
-* [ ] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
-* [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
 
 </details>
 
