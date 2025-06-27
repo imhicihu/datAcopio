@@ -9,4 +9,5 @@
 * [ViewPort tester](https://viewport-tester.com/)
 * [Word Counter](https://wordcounter.net/)
 * [Forms accessibility](https://www.accessibility-developer-guide.com/examples/forms/)
+* [Dead link checker](https://www.deadlinkchecker.com/)
 
