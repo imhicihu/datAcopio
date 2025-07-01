@@ -23,7 +23,7 @@
 #### Proyectos vigentes
 * `Título` (máximo 300 caracteres)
 * `Objetivo(s)`: (máximo 3000 caracteres)
-* `Objetivos específicos`: (máximo 3000 caracteres)
+* `Objetivos específicos`: (máximo 9000 caracteres)
 * `Libros o productos asociados`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
 * `‌Artículos en revistas científicas y capítulos de libros`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
 * `Director/a`: (máximo 200 caracteres)
@@ -40,9 +40,9 @@
 	- `Epígrafe del video`: (máximo 80 caracteres)
 	- `Derechos de autor del video`: Creative Commons, MIT, dominio público, _et alia_
 * `Sitio web del proyecto`: (máximo 200 caracteres)
-* `Addenda`: (máximo 500 caracteres)
+* `Addenda`: (máximo 1000 caracteres)
 
 ---
 > [!NOTE]
-> Updated: 13/05/2025 - 13:09:46
+> Updated: 30/05/2025 - 21:16:11
 
