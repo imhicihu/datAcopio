@@ -1,4 +1,4 @@
-### Enlaces del proyecto
+### Enlaces relacionados con el proyecto
 * [IMHICIHU's Archive uploads](https://archive.org/details/@imhicihu/uploads)
 * [Poncho](https://argob.github.io/poncho/)
 * [íconos Poncho](https://argob.github.io/poncho/identidad/iconos/)
@@ -10,4 +10,5 @@
 * [Word Counter](https://wordcounter.net/)
 * [Forms accessibility](https://www.accessibility-developer-guide.com/examples/forms/)
 * [Dead link checker](https://www.deadlinkchecker.com/)
-
+* [DevToysWeb](https://devtoysweb.web.app/)
+* [Squoosh](https://squoosh.app/): image compressor
