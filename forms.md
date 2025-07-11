@@ -1,6 +1,11 @@
 ### Formularios
 
 #### Áreas de investigación
+* Área de conocimiento:
+  - [ ] Antropología y Lingüística
+  - [ ] Arqueología
+  - [ ] Geografía
+  - [ ] Historia antigua y medieval
 * `Título` (máximo 300 caracteres)
 * `Coordinado por`: (máximo 200 caracteres)
 * `Integrantes internos del área`: (máximo 500 caracteres)
@@ -21,6 +26,11 @@
 * `Addenda`: (máximo 500 caracteres)
 
 #### Proyectos vigentes
+* Área de conocimiento:
+  - [ ] Antropología y Lingüística
+  - [ ] Arqueología
+  - [ ] Geografía
+  - [ ] Historia antigua y medieval
 * `Título` (máximo 300 caracteres)
 * `Objetivo(s)`: (máximo 3000 caracteres)
 * `Objetivos específicos`: (máximo 9000 caracteres)
