@@ -34,11 +34,11 @@
   - [ ] Historia antigua y medieval
 * `Título` (máximo 300 caracteres)
 * `Objetivo(s)`: (máximo 3000 caracteres)
-* `Objetivos específicos`: (máximo 9000 caracteres)
-* `Libros o productos asociados`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
-* `‌Artículos en revistas científicas y capítulos de libros`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
+* `Objetivos específicos`: (máximo 5000 caracteres)
 * `Director/a`: (máximo 200 caracteres)
 * `Co-director/a`: (máximo 200 caracteres)
+* `Libros o productos asociados`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
+* `‌Artículos en revistas científicas y capítulos de libros`: (máximo 6000 caracteres, utilizar el formato de cita bibliográfica [APA](https://biblioguias.uam.es/citar/estilo_apa_7th_ed))
 * `Grupo Responsable`:
 	- `Integrantes`: (máximo 1000 caracteres)
 * `Duración`: (máximo 30 caracteres)
