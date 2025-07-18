@@ -9,7 +9,10 @@
 * ~~`Area` (máximo 2000 caracteres)~~
 * ~~`Título` (máximo 300 caracteres)~~
 * `Coordinado por`: (máximo 900 caracteres)
-* `Integrantes internos del área`: (máximo 2000 caracteres)
+* `Integrantes internos del área`:
+  - Investigadores: (máximo 2000 caracteres)
+  - Becarios: (máximo 2000 caracteres)
+  - Personal de apoyo: (máximo 2000 caracteres) 
 * `Integrantes externos del área`: (máximo 2000 caracteres)
 * `Descripción` (máximo 5000 caracteres)
 * `Objetivos generales`: (máximo 1000 caracteres)
