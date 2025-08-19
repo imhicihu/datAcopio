@@ -4,5 +4,5 @@
 * Oculto por seguridad
 
 <p align="center">
-  <img src="images/SCR-20250813-mezx.png?raw=true" alt="Directorios discriminados - Copia de resguardo"/>
+  <img src="images/SCR-20250819-pkcv.png?raw=true" alt="Directorios discriminados - Copia de resguardo"/>
 </p>
