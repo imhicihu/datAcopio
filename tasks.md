@@ -67,6 +67,7 @@
 * [x] ~~falta~~ favicon de la página general
 * [x] Posibilidad de ocultar páginas (ver opción en captura de pantalla más abajo)
 * [x] ![screenshot.png](images/Screenshot_2024-08-09_at_14.51.45.png)
+* [x] Calendario actualizado a septiembre 2025
 * [x] Se agregó enlace a [Archive](https://archive.org/details/@imhicihu)
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/sociedad-y-memoria-en-la-edad-media-estudios-en-homenaje-a-nilda-guglielmi/
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
