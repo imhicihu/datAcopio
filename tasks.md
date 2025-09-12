@@ -72,6 +72,7 @@
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/sociedad-y-memoria-en-la-edad-media-estudios-en-homenaje-a-nilda-guglielmi/
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
 * [x] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
+* [x] Actualización de gráfico CABA Sur en el gráfico principal
 
       
 </details>
