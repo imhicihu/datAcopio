@@ -10,9 +10,9 @@ Datacopio"/>
 
 # datAcopio
 
-## RAZONES / [RATIONALE](README.md)
+## Motivación / [Rationale](README.md)
 
-* Este repositorio es para desarrollar rutinas, soluciones y generar herramientas internas con el fin de migrar nuestros datos entre diferentes servidores y plataformas
+* Este repositorio es desarrollar rutinas, soluciones y generar herramientas internas con el fin de migrar nuestros datos entre diferentes servidores y plataformas
 * Recopilar datos digitales entre personas, formatear, estandarizar y pasar a `producción` siguiendo plazos y criterios previamente comprometidos
 
 ### Enlaces relacionados
