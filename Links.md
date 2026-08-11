@@ -1,5 +1,6 @@
 ### Enlaces relacionados con el proyecto
 * [IMHICIHU's Archive uploads](https://archive.org/details/@imhicihu/uploads)
+* [Wordpress playground](https://playground.wordpress.net/) #test
 * [Poncho](https://argob.github.io/poncho/)
 * [íconos Poncho](https://argob.github.io/poncho/identidad/iconos/)
 * [webdevchecklist](https://www.toptal.com/developers/webdevchecklist)
