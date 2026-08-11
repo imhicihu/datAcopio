@@ -12,4 +12,4 @@
 * [Forms accessibility](https://www.accessibility-developer-guide.com/examples/forms/)
 * [Dead link checker](https://www.deadlinkchecker.com/)
 * [DevToysWeb](https://devtoysweb.web.app/)
-* [Squoosh](https://squoosh.app/): image compressor
+* [Squoosh](https://squoosh.app/): #image compressor
