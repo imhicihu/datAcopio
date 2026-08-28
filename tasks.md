@@ -114,7 +114,7 @@
 * [ ] Habilitar de servicios de evaluación y métricas del sitio (Google Analytics) --> enviar correo electrónico para habilitar (ver Instructivo, párrafo textual "_Habilitación de servicios de evaluación y métricas del sitio (Google Analytics) observando el comportamiento de las personas usuarias_", p. 4 del instructivo)
 * [ ] ~~Actualizar~~ foto principal en la página de inicio: condición legal ¿está en *Creative Commons* o bajo copyright?
 * [ ] posibilidad de rotar semanalmente foto principal de acuerdo a cada disciplina
-* [ ] agregar enlace a `LinkedIn`
+* [ ] ~~agregar enlace a `LinkedIn`~~
 * [ ] [Copyright & law](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Google Analytics procedure (option enabled?)
