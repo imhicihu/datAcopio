@@ -73,7 +73,7 @@
 * [x] added internal link to `Temas Medievales` en https://imhicihu.conicet.gov.ar/colecciones-digitales/temas-medievales/
 * [x] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
 * [x] Actualización de gráfico CABA Sur en el gráfico principal
-
+* [x] [Actualizar datos en Google Maps](https://www.google.com/maps/place/Saavedra+15,+C1083ACA+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6102285,-58.4060098,910m/data=!3m1!1e3!4m16!1m9!3m8!1s0x95bccaee5c1dd7bd:0x435fe13b945d6bdb!2sSaavedra+15,+C1083ACA+Cdad.+Aut%C3%B3noma+de+Buenos+Aires!3b1!8m2!3d-34.6102329!4d-58.4034349!10e3!16s%2Fg%2F11nnl06yxd!3m5!1s0x95bccaee5c1dd7bd:0x435fe13b945d6bdb!8m2!3d-34.6102329!4d-58.4034349!16s%2Fg%2F11nnl06yxd?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D)
       
 </details>
     
@@ -126,10 +126,9 @@
 * [ ] ~~agregar enlace a `Sketchfab`~~
 * [ ] ~~agregar enlace a `Vimeo`~~
 * [ ] ~~agregar enlace a `Onshape`~~
-* [ ] [Actualizar datos en Google Maps](https://www.google.com/maps/place/Saavedra+15,+C1083ACA+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6102285,-58.4060098,910m/data=!3m1!1e3!4m16!1m9!3m8!1s0x95bccaee5c1dd7bd:0x435fe13b945d6bdb!2sSaavedra+15,+C1083ACA+Cdad.+Aut%C3%B3noma+de+Buenos+Aires!3b1!8m2!3d-34.6102329!4d-58.4034349!10e3!16s%2Fg%2F11nnl06yxd!3m5!1s0x95bccaee5c1dd7bd:0x435fe13b945d6bdb!8m2!3d-34.6102329!4d-58.4034349!16s%2Fg%2F11nnl06yxd?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D)
 
 </details>
 
 ---
 > [!NOTE]
-> Updated: 28/08/2026 at 13:22:25
+> Updated: 28/08/2026 at 13:26:25
