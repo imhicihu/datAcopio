@@ -74,7 +74,7 @@
 * [x] [Indexación repositorio digital institucional](https://ri.conicet.gov.ar/wp/la-indexacion-en-el-ri-conicet-digital-google-base-y-otros/)
 * [x] Actualización de gráfico CABA Sur en el gráfico principal
 * [x] [Actualizar datos en Google Maps](https://www.google.com/maps/place/Saavedra+15,+C1083ACA+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6102285,-58.4060098,910m/data=!3m1!1e3!4m16!1m9!3m8!1s0x95bccaee5c1dd7bd:0x435fe13b945d6bdb!2sSaavedra+15,+C1083ACA+Cdad.+Aut%C3%B3noma+de+Buenos+Aires!3b1!8m2!3d-34.6102329!4d-58.4034349!10e3!16s%2Fg%2F11nnl06yxd!3m5!1s0x95bccaee5c1dd7bd:0x435fe13b945d6bdb!8m2!3d-34.6102329!4d-58.4034349!16s%2Fg%2F11nnl06yxd?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoASAFQAw%3D%3D)
-      
+* [x] cambiar a <https://imhicihu.conicet.gov.ar/> en el [canal de YouTube](https://www.youtube.com/@IMHICIHUOnline)
 </details>
     
 ---
@@ -119,7 +119,6 @@
 * [ ] [Requerimiento legal: Cookies treatment](https://github.com/imhicihu/datAcopio/issues/3)
 * [ ] Google Analytics procedure (option enabled?)
 * [ ] sitemap workflow (via [mermaid.js](https://mermaid-js.github.io/mermaid-live-editor/edit))
-* [ ] cambiar a <https://imhicihu.conicet.gov.ar/> en el [canal de YouTube](https://www.youtube.com/@IMHICIHUOnline)
 * [ ] subir a [archive.org](https://archive.org/details/@imhicihu) las [colecciones digitalizadas](https://imhicihu.conicet.gov.ar/colecciones-digitales/)
 * [ ] [format 2 web accesible](https://www.conicet.gov.ar/web-accesible/)
 * [ ] ~~agregar enlace a `GitHub`~~
