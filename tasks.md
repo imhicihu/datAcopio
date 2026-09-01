@@ -77,6 +77,7 @@
 * [x] cambiar a <https://imhicihu.conicet.gov.ar/> en el [canal de YouTube](https://www.youtube.com/@IMHICIHUOnline)
 </details>
 * [x] subir a [archive.org](https://archive.org/details/@imhicihu) las [colecciones digitalizadas](https://imhicihu.conicet.gov.ar/colecciones-digitales/)
+
 ---
 <details>
 <summary>Errores</summary>
